@@ -75,7 +75,7 @@ States differ on:
 * Follow the instructions on your ballot carefully.
   * Make sure you're using a black or blue ballpoint pen.
   * Make sure your marks heavy and dark.
-  * Try not to give anyone any excuse to say your ballot is invalid.
+  * Try not to give anyone any excuse to say that your ballot is invalid.
 * Do *not* take a photo of your ballot. Doing so may invalidate it.
   * However, you do have the right to talk about who you voted for.
 * If you're voting in person, try to do so during off-peak times.
@@ -109,30 +109,6 @@ Beyond the logistics of voting during the Covid-19 pandemic, there's also the re
 * Try not to expect an outcome until one candidate concedes.
 
 The wait will be painful, protracted, and exhausting. <!-- What can I do after? -->
-
-
-## Why am I saying this now?
-
-Because we are voting during a plague, under a fascist government.
-
-* The Trump administration has
-  * systematically disassembled federal agencies,
-  * loaded the courts with Trump loyalists,
-  * fired whistleblowers,
-  * forced out inspectors general, and
-  * incited violence by police and white supremacists.
-* Trust in public institutions is at a severely low point.
-* Russian misinformation campaigns are working to tip the electoral balance toward Trump, just as they did in 2016.
-* Meanwhile, ICE is still keeping migrants and asylum-seekers in cages along the Mexican border.
-* Police officers are still killing Black Americans disproportionately; too many are still getting away with it.
-* Five months into a global pandemic, Americans are still 
-  * dying in large numbers,
-  * losing jobs in large numbers,
-  * feeling immense pressure to come out of isolation in large numbers.
-
-Voting has always mattered. It matters now, more than many other years, because everything we're seeing in this moment? It can get worse. It *will* get worse if Trump stays in office. Trump himself is a vindictive narcissist, but it would be a mistake to judge him as a joke. The people he surrounds himself with are *ruthless* in hiding behind the chaos he spreads, shoring up power for themselves, exploiting every legal loophole they can find.
-
-We cannot afford to be complacent. We have to vote Trump and his enablers out of office.
 
 
 ## What can we do now?
