@@ -92,9 +92,13 @@ States differ on:
 
 ## Prepare to wait for the results
 
-With so many people voting by mail this year, **no one will know the outcome of the election for _weeks_**. States have different laws about when mail-in ballots can start being counted. States that allow ballots to be postmarked by Election Day will have to count newly-arrived ballots for weeks.
+With so many people voting by mail this year, **no one will know the outcome of the election for _weeks_**.
 
-The wait will be painful, protracted, and exhausting. 
+* Many states are scrambling to put infrastructure in place to process so many the paper ballots.
+* Some states can't legally count mail-in ballots until Election Day.
+* States that allow ballots to be postmarked by Election Day will have to count newly-arrived ballots for weeks.
+
+Beyond the logistics of voting during the Covid-19 pandemic, there's also the reality of voting under the Trump administration:
 
 * Expect lawsuits.
   * Expect lawsuits over the validity of ballots.
@@ -104,14 +108,14 @@ The wait will be painful, protracted, and exhausting.
   * Expect premature declarations of victory by Trump.
 * Try not to expect an outcome until one candidate concedes.
 
-<!-- What can I do after? -->
+The wait will be painful, protracted, and exhausting. <!-- What can I do after? -->
 
 
 ## Why am I saying this now?
 
 Because we are voting during a plague, under a fascist government.
 
-* The Trump administration has:
+* The Trump administration has
   * systematically disassembled federal agencies,
   * loaded the courts with Trump loyalists,
   * fired whistleblowers,
@@ -126,20 +130,20 @@ Because we are voting during a plague, under a fascist government.
   * losing jobs in large numbers,
   * feeling immense pressure to come out of isolation in large numbers.
 
-Voting has always mattered. It matters now, more than many other years, because everything we're seeing in this moment? It can get worse. It *will* get worse if Trump stays in office. Trump himself is a vindictive narcissist, but it would be a mistake to judge him as useless. The people he surrounds himself with are *ruthless* in hiding behind the chaos he spreads, shoring up power for themselves, exploiting every legal loophole they can find.
+Voting has always mattered. It matters now, more than many other years, because everything we're seeing in this moment? It can get worse. It *will* get worse if Trump stays in office. Trump himself is a vindictive narcissist, but it would be a mistake to judge him as a joke. The people he surrounds himself with are *ruthless* in hiding behind the chaos he spreads, shoring up power for themselves, exploiting every legal loophole they can find.
 
 We cannot afford to be complacent. We have to vote Trump and his enablers out of office.
 
 
 ## What can we do now?
 
-I feel hopeless a lot these days. Everything feels like too much. For me, despair and frustration come from feeling powerless, from feeling alone. Compiling this information was a way for me to start working past those feelings by acting and by reaching out. The advice here is just as much for myself as it is for you.
+I feel hopeless a lot these days. Everything feels like too much. For me, despair and frustration come from feeling powerless, from feeling alone. Compiling this information was a way for me to start working past those feelings through acting, and by reaching out. The list in this section is just as much for myself as it is for you.
 
-* We can put pressure on our local officials to add ballot dropboxes, and make sure there is enough personal protective equipment for poll workers.
+* We can put pressure on our local officials to add ballot dropboxes, and to make sure there is enough personal protective equipment for poll workers.
 * We can call our representatives and senators to demand funding for the U.S. Postal Service.
   * If they've already gone on the record in support of funding, let's thank them for it.
-  * Keep calls short and focused on one issue.
-  * An example introduction: "Hi, I'm [ name ] and I'm a constituent living at [ address ]. I urge the [ Senator, Representative ] to..."
+  * We can keep calls short and focused on one issue.
+  * Here's an example introduction: "Hi, I'm [ name ] and I'm a constituent living at [ address ]. I urge the [ Senator, Representative ] to..."
 * We can join local "get out the vote" campaigns.
   * We might send text messages or hand-written postcards reminding people to vote.
   * We might drive voters to ballot drop boxes or polling places.
@@ -155,4 +159,4 @@ I feel hopeless a lot these days. Everything feels like too much. For me, despai
 
 We can look for all the people quietly helping in the background. We can look to all the people loudly demanding change. We can look at all the people standing beside us. We can *be* these people for others.
 
-Just living can be an act of defiance. It's okay if some days, that's all we can manage.
+Finally: just living can be an act of resistance, of defiance. It's okay if some days, that's all we can manage.
