@@ -17,6 +17,6 @@ Because we are voting during a plague, under a fascist government.
   * losing jobs in large numbers,
   * feeling immense pressure to come out of isolation in large numbers.
 
-Voting has always mattered. It matters now, more than many other years, because everything we're seeing in this moment? It can get worse. It *will* get worse if Trump stays in office. Trump himself is a vindictive narcissist, but it would be a mistake to judge him as a joke. The people he surrounds himself with are *ruthless* in hiding behind the chaos he spreads, shoring up power for themselves, exploiting every legal loophole they can find.
+Voting has always mattered. It matters now, more than many other years, because everything we’re seeing in this moment? It can get worse. It *will* get worse if Trump stays in office. Trump himself is a vindictive narcissist, but it would be a mistake to judge him as a joke. The people he surrounds himself with are *ruthless* in hiding behind the chaos he spreads, shoring up power for themselves, exploiting every legal loophole they can find.
 
 We cannot afford to be complacent. We have to vote Trump and his enablers out of office.
