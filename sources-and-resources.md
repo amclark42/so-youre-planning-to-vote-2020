@@ -2,12 +2,14 @@
 
 ## How to vote
 
+* ["Election Protection"](https://www.vote.org/election-protection/) from Vote.org.
 * ["How To Vote In The 2020 Election"](https://projects.fivethirtyeight.com/how-to-vote-2020/) from FiveThirtyEight.
 * ["Plan Your Vote"](https://www.nbcnews.com/specials/plan-your-vote-state-by-state-guide-voting-by-mail-early-in-person-voting-election/index.html) from NBC News. Straightforward breakdown of state-by-state rules for voting, especially by mail.
 * ["How to Vote by Mail in Every State"](https://www.wsj.com/articles/how-to-vote-by-mail-in-every-state-11597840923) from the Wall Street Journal.
 * [Election Official Directory and State Voting Requirements](https://www.usvotefoundation.org/vote/eoddomestic.htm) from the U.S. Vote Foundation.
 * [U.S. Voting Laws](https://www.usa.gov/voting-laws).
 * [State Laws on Voting Rights](https://www.workplacefairness.org/voting-rights-time-off-work).
+* ["Mail-in voting versus absentee voting: Differences to know before Election Day"](https://www.cnet.com/how-to/mail-in-voting-versus-absentee-voting-differences-to-know-before-election-day/) from CNet.
 
 
 ## How to work for an equitable election

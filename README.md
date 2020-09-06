@@ -25,14 +25,16 @@ Consider voting by mail or voting absentee, in order to keep yourself and others
 
 ### Voting by mail
 
-Some states, such as Colorado, vote entirely by mail every year. Many others allow voting absentee, if you won't be able to make it to the polls, or voting by mail, if you have a valid excuse. <!-- Check accuracy --> Because of the Covid-19 pandemic, you may not be required to supply an excuse.
+Some states, such as Colorado, vote entirely by mail every year; ballots are sent to all registered voters before an election. Otherwise, voting absentee lets you vote by mail, usually because you physically can't go to the polls. This year, many states have fewer restrictions on absentee voting because of the Covid-19 pandemic. Depending on your state, you may need to cite fear of Covid-19 as a justification for voting absentee.
 
-* If you're able and if your local government allows it, consider emailing or faxing the application, rather than mailing it.
-* If mailing the application, do so ASAP. Allow at least a week for the application to arrive; two or three weeks to be on the safe side.
-* You may need to follow up to make sure your application has been accepted and is valid.
+* If you need to, apply to vote by mail ASAP.
+  * If you're able and if your local government allows it, consider applying online, or by emailing or faxing the application, rather than mailing it.
+  * If mailing the application, allow at least a week for the application to arrive. Two or three weeks to be on the safe side.
+  * You may need to follow up to make sure your application has been accepted and is valid.
 * Some places will offer secure drop boxes for returning your ballot.
-  * These are often placed in high-traffic areas, in areas monitored by security cameras.
-  * Ballots are collected from these boxes regularly: daily, if not more often.
+  * These are often placed in high-traffic areas, likely in areas monitored by security cameras.
+  * Ballots are collected from these boxes regularly.
+  * If you have concerns about leaving your ballot in one of these boxes, check with your local election authority.
 * If you plan to mail your ballot, try to get it to the post office ASAP—ideally, within a few days after you receive it.
   * Again, to be on the safe side, expect two or three weeks of transit.
 * You may have the option to track your ballot online, so you'll be able to see when it arrives.
@@ -80,7 +82,7 @@ States differ on:
   * However, you do have the right to talk about who you voted for.
 * If you're voting in person, try to do so during off-peak times.
     * Follow guidelines on reducing the spread of Covid-19.
-    * <!-- If you're disenfranchised at your polling place... -->
+    * ... <!-- If you're disenfranchised at your polling place... -->
     * If it's time for the polls to close and you haven't voted yet, *remain in line.* If you leave, you will not be able to cast a ballot in person.
 * Tell people that you've voted!
   * Voting is always important, but this year it's *really* important.
