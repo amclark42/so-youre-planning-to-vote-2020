@@ -2,7 +2,7 @@
 
 2020 is a difficult year to have a U.S. presidential election. Between the Covid-19 pandemic and voter disenfrancisement, we’re facing an election season full of fear and confusion. I compiled this document and a [companion list of resources](./sources-and-resources.md) to try to cut through that confusion and give others a place to start planning their vote.
 
-**The information here was not compiled in a vacuum, and it is *not* comprehensive.** For transparency, some notes about me: I only have lived experience with voting in Illinois and Massachusetts. I am white and Mexican, and genderqueer. I have:
+**The information here was not compiled in a vacuum, and it is *not* comprehensive.** There are questions I have not thought to ask, and scenarios I have not considered. For transparency, some notes about me: I only have lived experience with voting in Illinois and Massachusetts. I am white and Mexican, and genderqueer. I have:
 
 * never been homeless;
 * never had a police record;
@@ -12,7 +12,7 @@
 
 I am liberal in my politics, and I write this now because I see American democracy threatened by fascism. I think it’s important that we vote Trump out of office, and that we give Democrats the congressional power to undo the damage he’s wrought. But I also believe it’s important to give *everyone* the information to vote, even if you’re voting for Trump. [I hope you don’t.](./why-now.md) But our right to vote is threatened now even more than usual, and this year, *everyone* needs to plan how to exercise that right.
 
-Here goes.
+Again, **this information is not comprehensive.** I plan to update these documents when I can (there’s a record of my changes [here](https://github.com/amclark42/so-youre-planning-to-vote-2020/commits/main)). Even so, check the rules of your local election authority, and whenever you can, confirm that my information is correct. Misinformation about the election is not just abundant but being intentionally spread. I’m not an exception; I reblogged Russian propaganda in 2016. I encourage you to check my work.
 
 
 ## Make sure you’re registered
