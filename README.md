@@ -1,8 +1,18 @@
 # So You Want to Vote in Fascist America
 
+2020 is a difficult year to have a U.S. presidential election. Between the Covid-19 pandemic and voter disenfrancisement, we’re facing an election season full of fear and confusion. I compiled this document and a [companion list of resources](./sources-and-resources.md) to try to cut through that confusion and give others a place to start planning their vote.
 
+**The information here was not compiled in a vacuum, and it is *not* comprehensive.** For transparency, some notes about me: I only have lived experience with voting in Illinois and Massachusetts. I am white and Mexican, and genderqueer. I have:
 
-Double-check the information and advice you get by word-of-mouth. Please do fact-check the points I’ve made here!
+* never been homeless;
+* never had a police record;
+* never had a problem getting an ID;
+* never had to ask for time off to vote;
+* never been told at my polling place that I was not registered or allowed to vote.
+
+I am liberal in my politics, and I write this now because I see American democracy threatened by fascism. I think it’s important that we vote Trump out of office, and that we give Democrats the congressional power to undo the damage he’s wrought. But I also believe it’s important to give *everyone* the information to vote, even if you’re voting for Trump. [I hope you don’t.](./why-now.md) But our right to vote is threatened now even more than usual, and this year, *everyone* needs to plan how to exercise that right.
+
+Here goes.
 
 
 ## Make sure you’re registered

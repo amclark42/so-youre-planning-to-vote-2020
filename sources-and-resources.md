@@ -58,6 +58,7 @@
 
 ## What we’re up against (among other things)
 
+* [WTF Just Happened Today](https://whatthefuckjusthappenedtoday.com/) compiled by Matt Kiser. Daily news summaries on the Trump presidency.
 * [“Cleaning up or purging voter rolls?”](https://www.npr.org/2019/12/20/790319853/are-states-purging-or-cleaning-voter-registration-rolls) from NPR. 2019-12-20.
 * [Georgia Voter Roll Purge Errors](https://www.acluga.org/sites/default/files/georgia_voter_roll_purge_errors_report.pdf) from the American Civil Liberties Union (ACLU) of Georgia. 2020-09-01.
   * [Georgia 2020 Purge List](https://www.savemyvote2020.org/georgia-voter-purge-list-2020/) from the Palast Investigative Fund.
