@@ -11,17 +11,17 @@
   * [“Election Protection”](https://www.vote.org/election-protection/).
 * [Rock the Vote](https://www.rockthevote.org/).
 * [U.S. Voting Laws](https://www.usa.gov/voting-laws) from USA.gov.
-* [National Conference of State Legislatures] has useful information on the electoral process across states:
-  * [“Voting outside the polling place: Absentee, all-mail and other voting at home options”](https://www.ncsl.org/research/elections-and-campaigns/absentee-and-early-voting.aspx).
-  * [“Absentee and mail voting policies in effect for the 2020 election”](https://www.ncsl.org/research/elections-and-campaigns/absentee-and-mail-voting-policies-in-effect-for-the-2020-election.aspx).
+* National Conference of State Legislatures has useful information on the electoral process across states:
+  * [“Voting outside the polling place: Absentee, all-mail and other voting at home options”](https://www.ncsl.org/research/elections-and-campaigns/absentee-and-early-voting.aspx). 2020-08-28.
+  * [“Absentee and mail voting policies in effect for the 2020 election”](https://www.ncsl.org/research/elections-and-campaigns/absentee-and-mail-voting-policies-in-effect-for-the-2020-election.aspx). 2020-09-04.
 * [“Explore voting information by your state”](https://www.ourhomes-ourvotes.org/voterinformationbystate) from the National Low Income Housing Coalition. Includes information on whether ID is needed, and what to do if you don’t have a home address.
 * [“You don’t need a home to vote: Homeless and low-income voter rights manual”](https://nationalhomeless.org/wp-content/uploads/2018/08/2018-Manual_for-web.pdf) from the National Coalition for the Homeless. 2018-08.
-* [“State laws on voting rights/time off to vote”](https://www.workplacefairness.org/voting-rights-time-off-work) from Workplace Fairness.
-* [“How to vote in the 2020 election”](https://projects.fivethirtyeight.com/how-to-vote-2020/) from FiveThirtyEight.
-* [“Plan your vote”](https://www.nbcnews.com/specials/plan-your-vote-state-by-state-guide-voting-by-mail-early-in-person-voting-election/index.html) from NBC News. Straightforward breakdown of state-by-state rules for voting, especially by mail.
-* [“How to vote by mail in every state”](https://www.wsj.com/articles/how-to-vote-by-mail-in-every-state-11597840923) from the Wall Street Journal.
+* [“State laws on voting rights/time off to vote”](https://www.workplacefairness.org/voting-rights-time-off-work) from Workplace Fairness. No listed date.
+* [“How to vote in the 2020 election”](https://projects.fivethirtyeight.com/how-to-vote-2020/) from FiveThirtyEight. Updated 2020-09-09.
+* [“Plan your vote”](https://www.nbcnews.com/specials/plan-your-vote-state-by-state-guide-voting-by-mail-early-in-person-voting-election/index.html) from NBC News. No listed date. Straightforward breakdown of state-by-state rules for voting, especially by mail.
+* [“How to vote by mail in every state”](https://www.wsj.com/articles/how-to-vote-by-mail-in-every-state-11597840923) from the Wall Street Journal. Updated 2020-08-20.
 * [Election Official Directory and State Voting Requirements](https://www.usvotefoundation.org/vote/eoddomestic.htm) from the U.S. Vote Foundation.
-* [“Mail-in voting versus absentee voting: Differences to know before Election Day”](https://www.cnet.com/how-to/mail-in-voting-versus-absentee-voting-differences-to-know-before-election-day/) from CNet.
+* [“Mail-in voting versus absentee voting: Differences to know before Election Day”](https://www.cnet.com/how-to/mail-in-voting-versus-absentee-voting-differences-to-know-before-election-day/) from CNet. 2020-09-03.
 
 
 ## How to work for an equitable election
@@ -42,13 +42,13 @@
     * [H.R. 6800: The Heroes Act](https://www.govtrack.us/congress/bills/116/hr6800).
     * [H.R. 7015: Postal Preservation Act](https://www.govtrack.us/congress/bills/116/hr7015).
     * [S. 2965: The USPS Fairness Act](https://www.govtrack.us/congress/bills/116/s2965).
-  * [Twitter thread on putting pressure on the USPS Board of Governors](https://twitter.com/NastyOldWomyn/status/1294349964966006788) by Twitter user NastyOldWomyn.
+  * [Thread about putting pressure on the USPS Board of Governors](https://twitter.com/NastyOldWomyn/status/1294349964966006788) by Twitter user NastyOldWomyn. 2020-08-14.
 * [“The antidote to despair”](https://terikanefield-blog.com/the-antidote-to-despair/) by Teri Kanefield (as a [Twitter thread](https://twitter.com/Teri_Kanefield/status/1300139s973874573312)). 2020-08-30.
 
 
 ## November 3rd and beyond
 
-* [“The voting will end Nov. 3. The legal battle probably won’t.”](https://www.nytimes.com/2020/08/08/us/politics/voting-nov-3-election.html) from the _New York Times_. 2020-08-08.
+* [“The voting will end Nov. 3. The legal battle probably won’t.”](https://www.nytimes.com/2020/08/08/us/politics/voting-nov-3-election.html) from the _New York Times_. 2020-08-08. Updated 2020-08-17.
 * [“November 3: What can go wrong”](https://terikanefield-blog.com/november-3-what-can-go-wrong-expanded-list/) by Teri Kanefield. 2020-08-29.
 * [“Trump refuses to commit to accepting election result as Biden enjoys poll lead”](https://www.theguardian.com/us-news/2020/jul/19/trump-joe-biden-coronavirus-polls) from _The Guardian_. 2020-07-19.
 * [“A bipartisan group secretly gathered to game out a contested Trump-Biden election. It wasn’t pretty”](https://www.bostonglobe.com/2020/07/25/nation/bipartisan-group-secretly-gathered-game-out-contested-trump-biden-election-it-wasnt-pretty) from the _Boston Globe_. 2020-07-26.
@@ -59,15 +59,18 @@
 ## What we’re up against (among other things)
 
 * [“Cleaning up or purging voter rolls?”](https://www.npr.org/2019/12/20/790319853/are-states-purging-or-cleaning-voter-registration-rolls) from NPR. 2019-12-20.
-* [Georgia Voter Roll Purge Errors](https://www.acluga.org/sites/default/files/georgia_voter_roll_purge_errors_report.pdf) from the American Civil Liberties Union (ACLU) of Georgia.
+* [Georgia Voter Roll Purge Errors](https://www.acluga.org/sites/default/files/georgia_voter_roll_purge_errors_report.pdf) from the American Civil Liberties Union (ACLU) of Georgia. 2020-09-01.
   * [Georgia 2020 Purge List](https://www.savemyvote2020.org/georgia-voter-purge-list-2020/) from the Palast Investigative Fund.
 * [“Felony disenfranchisement” page](https://www.sentencingproject.org/issues/felony-disenfranchisement/) from The Sentencing Project.
 * [“U.S. Postal Service watchdog to probe service woes as worries rise about mail ballots”](https://www.reuters.com/article/us-usa-election-states-idUSKCN25A2M6) from Reuters. 2020-08-14.
-* [“Nella Explains the USPS (Part 1)”](https://www.youtube.com/watch?v=ubBngQtnJOo) by Antonella Inserra.
+* [“1 million primary ballots were mailed late, postal service watchdog says”](https://www.nytimes.com/2020/09/01/us/politics/postal-service-late-ballots.html) from the _New York Times_. 2020-09-01.
+* [“Nella Explains the USPS (Part 1)”](https://www.youtube.com/watch?v=ubBngQtnJOo) by Antonella Inserra. 2020-09-03.
 * [“Four questions before the courts that will shape how we vote”](https://www.washingtonpost.com/politics/2020/09/09/four-questions-courts-are-deciding-that-will-shape-how-we-vote-by-mail-november/) from the _Washington Post_. 2020-09-09.
-* [“The Trump administration continues to erode election security”](https://www.wired.com/story/trump-election-security-dhs-doj-odni/) from _Wired_.
+* [“Trump encourages people in North Carolina to vote twice, which is illegal”](https://www.nytimes.com/2020/09/02/us/politics/trump-people-vote-twice.html) from the _New York Times_. 2020-09-02.
+* [“In Georgia, officials are investigating hundreds of cases of double voting”](https://www.nytimes.com/2020/09/08/us/politics/georgia-double-voting.html) from the _New York Times_. 2020-09-08.
+* [“The Trump administration continues to erode election security”](https://www.wired.com/story/trump-election-security-dhs-doj-odni/) from _Wired_. 2020-09-03.
 * [“Elections” tag](https://www.politifact.com/elections/) from PolitiFact.
 * [“Russians again targeting Americans with disinformation”](https://www.nytimes.com/2020/09/01/technology/facebook-russia-disinformation-election.html?smid=tw-share) from the _New York Times_. 2020-09-01.
-* [“Whistleblower explains how Cambridge Analytica helped fuel U.S. ‘insurgency’”](https://www.npr.org/transcripts/768216311) from NPR. 
-* [“Source hacking: Media manipulation in practice”](https://datasociety.net/wp-content/uploads/2019/09/Source-Hacking_Hi-res.pdf) by Joan Donovan and Biran Friedberg.
+* [“Whistleblower explains how Cambridge Analytica helped fuel U.S. ‘insurgency’”](https://www.npr.org/transcripts/768216311) from NPR. 2019-10-08.
+* [“Source hacking: Media manipulation in practice”](https://datasociety.net/wp-content/uploads/2019/09/Source-Hacking_Hi-res.pdf) by Joan Donovan and Biran Friedberg. 2019-09.
 
