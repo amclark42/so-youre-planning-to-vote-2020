@@ -10,9 +10,19 @@
 * never had to ask for time off to vote;
 * never been told at my polling place that I was not registered or allowed to vote.
 
-I am liberal in my politics, and I write this now because I see American democracy threatened by fascism. I think it’s important that we vote Trump out of office, and that we give Democrats the congressional power to undo the damage he’s wrought. But I also believe it’s important to give *everyone* the information to vote, even if you’re voting for Trump. [I hope you don’t.](./why-now.md) But our right to vote is threatened now even more than usual, and this year, *everyone* needs to plan how to exercise that right.
+I am liberal in my politics. I’m writing this now because I see American democracy threatened by fascism. [I don’t use that word lightly.](./why-now.md) I think it’s important that we vote Trump out of office, and that we give Democrats the congressional power to undo the damage he’s wrought.
 
-Again, **this information is not comprehensive.** I plan to update these documents when I can (there’s a record of my changes [here](https://github.com/amclark42/so-youre-planning-to-vote-2020/commits/main)). Even so, check the rules of your local election authority, and whenever you can, confirm that my information is correct. Misinformation about the election is not just abundant but being intentionally spread. I’m not an exception; I reblogged Russian propaganda in 2016. I encourage you to check my work.
+I believe it’s important to give everyone the information to vote, even if you’re voting for Trump. Our right to vote is threatened now even more than usual, and this year, everyone needs to plan how to safely exercise that right. But I’m not going to pretend to be neutral on this.
+
+Again, **this information is not comprehensive.** I plan to update these documents when I can (there’s a record of my changes [here](https://github.com/amclark42/so-youre-planning-to-vote-2020/commits/main)). Even so, check the rules of your local election authority, and whenever you can, confirm that my information is correct. Misinformation about the election is not just abundant but being intentionally spread. I’m not immune to misinformation! In 2016, I reblogged Russian propaganda, believing it was truth. I encourage you to check my work.
+
+1. [Make sure you’re registered](#make-sure-youre-registered)
+2. [Decide how you will submit your ballot](#decide-how-you-will-submit-your-ballot)
+  1. [Voting by mail](#voting-by-mail)
+  2. [Voting in person](#voting-in-person)
+3. *[Vote](#vote)*
+4. [Prepare to wait for results](#prepare-to-wait-for-results)
+5. [What can we do now?](#what-can-we-do-now)
 
 
 ## Make sure you’re registered
@@ -57,7 +67,7 @@ Some states will only accept mail-in ballots up until the polls close on Electio
 
 ### Voting in person
 
-This is important to recognize: America is in a public health crisis. Covid-19 spreads quickly, and it will still be here in November. The pandemic adds risk to your trip to the polls. The risk of Covid-19 is not just risk that *you* will get it. It is also risk that *your family* will get it, and the people that *they* come into contact with as well. It is also risk that you will *give* the virus to others at the polls: people in line, poll workers, election judges, poll monitors, and all *their* family.
+This is important to recognize: America is in a public health crisis. Covid-19 spreads quickly, and it will still be here in November. The pandemic adds risk to your trip to the polls. The risk of Covid-19 is not just risk that *you* will get it. It is also risk that *your family* will get it, and the people that *they* come into contact with as well. It is also risk that you will *give* the virus to others at the polls: people in line, poll workers, election judges, poll monitors, and all *their* families.
 
 If you’re voting in person, make plans to keep the risk of infection low, both for yourself and for others:
 
@@ -86,7 +96,7 @@ States differ on:
   * whether you need to give your employer proof that you voted.
 
 
-## __VOTE__
+## *VOTE*
 
 * Follow the instructions on your ballot carefully.
   * Make sure you’re using a ballpoint pen with dark ink.
@@ -108,11 +118,11 @@ States differ on:
 
 ## Prepare to wait for the results
 
-With so many people voting by mail this year, **no one will know the outcome of the election for _weeks_**.
+With so many people voting by mail this year, **no one will know the outcome of the election for weeks**.
 
 * Many states are scrambling to put infrastructure in place to process so many the paper ballots.
 * Some states can’t legally count mail-in ballots until Election Day. ([National Conference of State Legislatures](https://www.ncsl.org/research/elections-and-campaigns/absentee-and-mail-voting-policies-in-effect-for-the-2020-election.aspx))
-* States that allow ballots to be postmarked by Election Day will have to count ballots as they arrive.
+* States that allow ballots to be postmarked by Election Day will have to count ballots as they arrive, within a set timeframe.
 
 Beyond the logistics of voting during the Covid-19 pandemic, there’s also the reality of voting under the Trump administration:
 
@@ -127,7 +137,7 @@ Beyond the logistics of voting during the Covid-19 pandemic, there’s also the 
 The wait is going to be painful, protracted, exhausting. <!-- What can I do after? -->
 
 
-## What can we do now?
+## What can we do right now?
 
 I feel hopeless a lot these days. Everything feels like too much. For me, despair and frustration come from feeling powerless, from feeling alone. Compiling this information was a way for me to start working past those feelings through acting, and by reaching out. The list in this section is just as much for myself as it is for you.
 

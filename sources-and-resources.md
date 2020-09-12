@@ -16,6 +16,7 @@
   * [“Absentee and mail voting policies in effect for the 2020 election”](https://www.ncsl.org/research/elections-and-campaigns/absentee-and-mail-voting-policies-in-effect-for-the-2020-election.aspx). 2020-09-04.
 * [“Explore voting information by your state”](https://www.ourhomes-ourvotes.org/voterinformationbystate) from the National Low Income Housing Coalition. Includes information on whether ID is needed, and what to do if you don’t have a home address.
 * [“You don’t need a home to vote: Homeless and low-income voter rights manual”](https://nationalhomeless.org/wp-content/uploads/2018/08/2018-Manual_for-web.pdf) from the National Coalition for the Homeless. 2018-08.
+* [“Know your rights: Voting guide for TGNCNB people”](https://www.lambdalegal.org/vote) from Lambda Legal.
 * [“State laws on voting rights/time off to vote”](https://www.workplacefairness.org/voting-rights-time-off-work) from Workplace Fairness. No listed date.
 * [“How to vote in the 2020 election”](https://projects.fivethirtyeight.com/how-to-vote-2020/) from FiveThirtyEight. Updated 2020-09-09.
 * [“Plan your vote”](https://www.nbcnews.com/specials/plan-your-vote-state-by-state-guide-voting-by-mail-early-in-person-voting-election/index.html) from NBC News. No listed date. Straightforward breakdown of state-by-state rules for voting, especially by mail.
@@ -56,13 +57,14 @@
 * [“DHS draft document: White supremacists are greatest terror threat”](https://www.politico.com/news/2020/09/04/white-supremacists-terror-threat-dhs-409236) from Politico. 2020-09-04.
 
 
-## What we’re up against (among other things)
+## (Some of) what we’re up against
 
 * [WTF Just Happened Today](https://whatthefuckjusthappenedtoday.com/) compiled by Matt Kiser. Daily news summaries on the Trump presidency.
 * [“Cleaning up or purging voter rolls?”](https://www.npr.org/2019/12/20/790319853/are-states-purging-or-cleaning-voter-registration-rolls) from NPR. 2019-12-20.
 * [Georgia Voter Roll Purge Errors](https://www.acluga.org/sites/default/files/georgia_voter_roll_purge_errors_report.pdf) from the American Civil Liberties Union (ACLU) of Georgia. 2020-09-01.
   * [Georgia 2020 Purge List](https://www.savemyvote2020.org/georgia-voter-purge-list-2020/) from the Palast Investigative Fund.
 * [“Felony disenfranchisement” page](https://www.sentencingproject.org/issues/felony-disenfranchisement/) from The Sentencing Project.
+* [“Conservative judicial decisions keep boosting GOP voter suppression”](https://www.motherjones.com/2020-elections/2020/09/florida-felon-voting-fines/) from _Mother Jones_. 2020-09-11.
 * [“U.S. Postal Service watchdog to probe service woes as worries rise about mail ballots”](https://www.reuters.com/article/us-usa-election-states-idUSKCN25A2M6) from Reuters. 2020-08-14.
 * [“1 million primary ballots were mailed late, postal service watchdog says”](https://www.nytimes.com/2020/09/01/us/politics/postal-service-late-ballots.html) from the _New York Times_. 2020-09-01.
 * [“Nella Explains the USPS (Part 1)”](https://www.youtube.com/watch?v=ubBngQtnJOo) by Antonella Inserra. 2020-09-03.
