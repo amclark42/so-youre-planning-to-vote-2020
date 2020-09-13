@@ -26,10 +26,10 @@
 * [“How to vote by mail in every state”](https://www.wsj.com/articles/how-to-vote-by-mail-in-every-state-11597840923) from the Wall Street Journal. Updated 2020-08-20.
 * [“Mail-in voting versus absentee voting: Differences to know before Election Day”](https://www.cnet.com/how-to/mail-in-voting-versus-absentee-voting-differences-to-know-before-election-day/) from CNet. 2020-09-03.
 * [“Election Mail” FAQ and resources](https://about.usps.com/what/government-services/election-mail/) from the U.S. Postal Service.
-* [“Re: Election Mail”](https://about.usps.com/newsroom/national-releases/2020/2020-05-29-marshall-to-election-officials-re-election-mail.pdf) from the U.S. Postal Service. Correspondence by Thomas J. Marshall, general counsel for USPS, to election officials. 2020-05-29.
+  * [“Re: Election Mail”](https://about.usps.com/newsroom/national-releases/2020/2020-05-29-marshall-to-election-officials-re-election-mail.pdf) from the U.S. Postal Service. Correspondence by Thomas J. Marshall, general counsel for USPS, to election officials. 2020-05-29.
 * [“New voting laws revive fights over ‘ballot harvesting’”](https://www.snopes.com/ap/2020/08/17/new-voting-laws-revive-fights-over-ballot-harvesting/) from _The Associated Press_. Published on Snopes.com. 2020-08-17.
-* [“Are voting selfies legal? We have the answer in all 50 states”](https://lawandcrime.com/high-profile/are-voting-selfies-legal-we-have-the-answer-in-all-50-states/) from LawandCrime.com. 2016-09-07. (Outdated article, but a good starting point.)
 * [“Don’t selfie your ballot?”](https://www.snopes.com/fact-check/dont-selfie-your-ballot/) from Snopes.com. 2012-09-06.
+  * [“Are voting selfies legal? We have the answer in all 50 states”](https://lawandcrime.com/high-profile/are-voting-selfies-legal-we-have-the-answer-in-all-50-states/) from LawandCrime.com. 2016-09-07. (Outdated article, but a good starting point.)
 
 
 ## How to work for an equitable election
@@ -58,6 +58,7 @@
 ## November 3rd and beyond
 
 * [“Parties ready for court battles over virus-era voting rights”](https://apnews.com/71adf90dabe4d6ccab781df75aafd76a) from _The Associated Press_. 2020-04-07.
+* [“The escalating terrorism problem in the United States”](https://www.csis.org/analysis/escalating-terrorism-problem-united-states) from the Center for Strategic & International Studies. 2020-06-17.
 * [“Trump refuses to commit to accepting election result as Biden enjoys poll lead”](https://www.theguardian.com/us-news/2020/jul/19/trump-joe-biden-coronavirus-polls) from _The Guardian_. 2020-07-19.
 * [“A bipartisan group secretly gathered to game out a contested Trump-Biden election. It wasn’t pretty”](https://www.bostonglobe.com/2020/07/25/nation/bipartisan-group-secretly-gathered-game-out-contested-trump-biden-election-it-wasnt-pretty) from the _Boston Globe_. 2020-07-26.
 * [“This ‘war game’ maps out what happens if the president contests the election”](https://www.wbur.org/onpoint/2020/07/28/election-war-games-trump-scenario) from _On Point_, National Public Radio (NPR). 2020-07-28.
@@ -79,13 +80,13 @@ Reports and news items:
 * [“Cleaning up or purging voter rolls?”](https://www.npr.org/2019/12/20/790319853/are-states-purging-or-cleaning-voter-registration-rolls) from NPR. 2019-12-20.
 * [“U.S. Postal Service watchdog to probe service woes as worries rise about mail ballots”](https://www.reuters.com/article/us-usa-election-states-idUSKCN25A2M6) from Reuters. 2020-08-14.
 * [“Source hacking: Media manipulation in practice”](https://datasociety.net/wp-content/uploads/2019/09/Source-Hacking_Hi-res.pdf) by Joan Donovan and Biran Friedberg. 2019-09.
-* [Georgia Voter Roll Purge Errors](https://www.acluga.org/sites/default/files/georgia_voter_roll_purge_errors_report.pdf) from the American Civil Liberties Union (ACLU) of Georgia. 2020-09-01.
+* [“Georgia voter roll purge errors”](https://www.acluga.org/sites/default/files/georgia_voter_roll_purge_errors_report.pdf) from the American Civil Liberties Union (ACLU) of Georgia. 2020-09-01.
   * [Georgia 2020 Purge List](https://www.savemyvote2020.org/georgia-voter-purge-list-2020/) from the Palast Investigative Fund.
 * [“Russians again targeting Americans with disinformation”](https://www.nytimes.com/2020/09/01/technology/facebook-russia-disinformation-election.html?smid=tw-share) from the _New York Times_. 2020-09-01.
 * [“1 million primary ballots were mailed late, postal service watchdog says”](https://www.nytimes.com/2020/09/01/us/politics/postal-service-late-ballots.html) from the _New York Times_. 2020-09-01.
 * [“Trump encourages people in North Carolina to vote twice, which is illegal”](https://www.nytimes.com/2020/09/02/us/politics/trump-people-vote-twice.html) from the _New York Times_. 2020-09-02.
 * [“The Trump administration continues to erode election security”](https://www.wired.com/story/trump-election-security-dhs-doj-odni/) from _Wired_. 2020-09-03.
-* [“Nella Explains the USPS (Part 1)”](https://www.youtube.com/watch?v=ubBngQtnJOo) by Antonella Inserra. 2020-09-03.
+* [“Nella Explains the USPS (Part 1)”](https://www.youtube.com/watch?v=ubBngQtnJOo) by Antonella Inserra. Video. 2020-09-03.
 * [“DHS draft document: White supremacists are greatest terror threat”](https://www.politico.com/news/2020/09/04/white-supremacists-terror-threat-dhs-409236) from Politico. 2020-09-04.
 * [“In Georgia, officials are investigating hundreds of cases of double voting”](https://www.nytimes.com/2020/09/08/us/politics/georgia-double-voting.html) from the _New York Times_. 2020-09-08.
 * [“Four questions before the courts that will shape how we vote”](https://www.washingtonpost.com/politics/2020/09/09/four-questions-courts-are-deciding-that-will-shape-how-we-vote-by-mail-november/) from the _Washington Post_. 2020-09-09.

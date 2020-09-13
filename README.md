@@ -88,7 +88,7 @@ If you’re voting in person, make plans to keep the risk of infection low, both
 * Show respect for everyone else voting in-person, but especially show respect for poll workers, who will face increased risk to themselves and their families.
 * As soon as you can after voting, disinfect and/or wash your hands for 20 seconds.
 
-If you need to take time off of work in order to vote, check the guidelines for your area. About 30 states have laws expressing your right to do so, usually with advance notice to your employer. Request time off from your employer ASAP.
+If you need to take time off of work in order to vote, check the guidelines for your area. About 30 states have laws expressing your right to do so, usually with advance notice to your employer. Request time off from your employer ASAP. ([Workplace Fairness](https://www.workplacefairness.org/voting-rights-time-off-work))
 
 * Your employer may have their own guidelines on requests to vote during work hours.
 * If your employer denies you anything guaranteed to you by law, make sure they know that the law that supports you.
@@ -144,7 +144,7 @@ Beyond the logistics of voting during the Covid-19 pandemic, there’s also the 
   * Expect premature declarations of victory by Trump.
 * Try not to expect an outcome until one candidate concedes.
 
-The lawsuits and analysis have already started. November 3rd will not be the end of them, I’m sorry to say. ([FiveThirtyEight](https://projects.fivethirtyeight.com/how-to-vote-2020/)) There is also a strong likelihood that we’ll see a spike in domestic terrorism.
+The lawsuits and analysis have already started. November 3rd will not be the end of them, I’m sorry to say. ([FiveThirtyEight](https://projects.fivethirtyeight.com/how-to-vote-2020/)) There is also a strong likelihood that we’ll see a spike in domestic terrorism. ([Center for Strategic & International Studies](https://www.csis.org/analysis/escalating-terrorism-problem-united-states))
 
 No matter what, the wait is going to be painful, protracted, exhausting. Try to remember that November 3rd is not a finish line. <!-- What can I do after? -->
 
