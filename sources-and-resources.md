@@ -11,16 +11,17 @@
   * [“Absentee Ballot Rules”](https://www.vote.org/absentee-voting-rules/).
   * [“Voting & COVID-19”](https://www.vote.org/covid-19/)
   * [“Election Protection”](https://www.vote.org/election-protection/).
-* [Rock the Vote](https://www.rockthevote.org/).
+* [“Voting Information”](https://www.rockthevote.org/how-to-vote/) from Rock the Vote.
 * [U.S. Voting Laws](https://www.usa.gov/voting-laws) from USA.gov.
 * [Election Official Directory and State Voting Requirements](https://www.usvotefoundation.org/vote/eoddomestic.htm) from the U.S. Vote Foundation.
-* National Conference of State Legislatures (NCSL) has useful information on the electoral process across states:
-  * [“Voting outside the polling place: Absentee, all-mail and other voting at home options”](https://www.ncsl.org/research/elections-and-campaigns/absentee-and-early-voting.aspx). 2020-08-28.
-  * [“Absentee and mail voting policies in effect for the 2020 election”](https://www.ncsl.org/research/elections-and-campaigns/absentee-and-mail-voting-policies-in-effect-for-the-2020-election.aspx). 2020-09-04.
-* [“Explore voting information by your state”](https://www.ourhomes-ourvotes.org/voterinformationbystate) from the National Low Income Housing Coalition. Includes information on whether ID is needed, and what to do if you don’t have a home address.
-* [“You don’t need a home to vote: Homeless and low-income voter rights manual”](https://nationalhomeless.org/wp-content/uploads/2018/08/2018-Manual_for-web.pdf) from the National Coalition for the Homeless. 2018-08.
-* [“Know your rights: Voting guide for TGNCNB people”](https://www.lambdalegal.org/vote) from Lambda Legal.
+* [“Voting outside the polling place: Absentee, all-mail and other voting at home options”](https://www.ncsl.org/research/elections-and-campaigns/absentee-and-early-voting.aspx) from the National Conference of State Legislatures (NCSL). 2020-08-28.
 * [“State laws on voting rights/time off to vote”](https://www.workplacefairness.org/voting-rights-time-off-work) from Workplace Fairness. No listed date.
+* [“Don’t selfie your ballot?”](https://www.snopes.com/fact-check/dont-selfie-your-ballot/) from Snopes.com. 2012-09-06.
+  * [“Are voting selfies legal? We have the answer in all 50 states”](https://lawandcrime.com/high-profile/are-voting-selfies-legal-we-have-the-answer-in-all-50-states/) from LawandCrime.com. 2016-09-07. (Outdated article, but a good starting point.)
+
+### Voting by mail because of Covid-19
+
+* [“Absentee and mail voting policies in effect for the 2020 election”](https://www.ncsl.org/research/elections-and-campaigns/absentee-and-mail-voting-policies-in-effect-for-the-2020-election.aspx) from NCSL. 2020-09-04.
 * [“How to vote in the 2020 election”](https://projects.fivethirtyeight.com/how-to-vote-2020/) from FiveThirtyEight. Updated 2020-09-09.
 * [“Plan your vote”](https://www.nbcnews.com/specials/plan-your-vote-state-by-state-guide-voting-by-mail-early-in-person-voting-election/index.html) from NBC News. No listed date. Straightforward breakdown of state-by-state rules for voting, especially by mail.
 * [“How to vote by mail in every state”](https://www.wsj.com/articles/how-to-vote-by-mail-in-every-state-11597840923) from the Wall Street Journal. Updated 2020-08-20.
@@ -28,8 +29,38 @@
 * [“Election Mail” FAQ and resources](https://about.usps.com/what/government-services/election-mail/) from the U.S. Postal Service.
   * [“Re: Election Mail”](https://about.usps.com/newsroom/national-releases/2020/2020-05-29-marshall-to-election-officials-re-election-mail.pdf) from the U.S. Postal Service. Correspondence by Thomas J. Marshall, general counsel for USPS, to election officials. 2020-05-29.
 * [“New voting laws revive fights over ‘ballot harvesting’”](https://www.snopes.com/ap/2020/08/17/new-voting-laws-revive-fights-over-ballot-harvesting/) from _The Associated Press_. Published on Snopes.com. 2020-08-17.
-* [“Don’t selfie your ballot?”](https://www.snopes.com/fact-check/dont-selfie-your-ballot/) from Snopes.com. 2012-09-06.
-  * [“Are voting selfies legal? We have the answer in all 50 states”](https://lawandcrime.com/high-profile/are-voting-selfies-legal-we-have-the-answer-in-all-50-states/) from LawandCrime.com. 2016-09-07. (Outdated article, but a good starting point.)
+
+### Resisting voter suppression tactics
+
+* [National election protection hotline](https://866ourvote.org/) from the Lawyers’ Committee for Civil Rights Under Law. **Hotlines:**
+  * English: 1-866-OUR-VOTE (1-866-687-8683)
+  * Spanish: 1-888-VE-Y-VOTA (1-888-839-8682)
+  * Asian languages: 1-888-API-VOTE (1-888-274-8683)
+  * Arabic: 1-844-YallaUS (1-844-925-5287)
+* [Voting Section](https://www.justice.gov/crt/voting-section) of the U.S. Department of Justice, Civil Rights Division.
+  * [Report a Federal Voting Rights Violation](https://civilrights.justice.gov/report/).
+  * [“Frequently asked questions”](https://www.justice.gov/crt/frequently-asked-questions-2) from the U.S. Department of Justice Civil Rights Division.
+  * Voting Rights hotline: 1-800-253-3931.
+* [“Know your rights: Voter intimidation”](https://www.aclu.org/sites/default/files/field_pdf_file/kyr-voterintimidation-v03.pdf) from the American Civil Liberties Union (ACLU).
+* [VoteRiders](https://www.voteriders.org/). Voter ID assistance, with a state-by-state breakdown.
+* [“Know your voting rights”](https://votolatino.org/article/know-your-voting-rights/) from Voto Latino. 2020.
+
+### Voting without a permanent address
+
+* [“Explore voting information by your state”](https://www.ourhomes-ourvotes.org/voterinformationbystate) from the National Low Income Housing Coalition. Includes information on whether ID is needed, and what to do if you don’t have a home address.
+* [“You don’t need a home to vote: Homeless and low-income voter rights manual”](https://nationalhomeless.org/wp-content/uploads/2018/08/2018-Manual_for-web.pdf) from the National Coalition for the Homeless. 2018-08.
+
+### Voting while queer
+
+* [“Know your rights: Voting guide for TGNCNB people”](https://www.lambdalegal.org/vote) from Lambda Legal. No listed date.
+* [“#VotingWhileTrans”](https://transformthevote.org/voting) from the National Center for Transgender Equality Action Fund. 2020.
+* [“Vote with pride: Election 2020”](https://www.glaad.org/action) from GLAAD. No listed date.
+
+### Voting after incarceration
+
+* [“Felony disenfranchisement”](https://www.sentencingproject.org/issues/felony-disenfranchisement/) from The Sentencing Project.
+* [“Felon voting laws”](https://www.headcount.org/wp-content/uploads/2020/05/FelonMap.pdf) from HeadCount. Updated 2020-05-26.
+* [“Felon voting rights”](https://www.ncsl.org/research/elections-and-campaigns/felon-voting-rights.aspx) from NCSL. 2020-09-03.
 
 
 ## How to work for an equitable election
@@ -72,7 +103,6 @@ Broadly:
 
 * [WTF Just Happened Today](https://whatthefuckjusthappenedtoday.com/) compiled by Matt Kiser. Daily news summaries on the Trump presidency.
 * [“Elections” tag](https://www.politifact.com/elections/) from PolitiFact.
-* [“Felony disenfranchisement” page](https://www.sentencingproject.org/issues/felony-disenfranchisement/) from The Sentencing Project.
 
 Reports and news items:
 
