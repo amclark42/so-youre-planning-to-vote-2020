@@ -22,8 +22,8 @@ Again, **this information is not comprehensive.** I plan to update these documen
 
 1. [Make sure you’re registered](#make-sure-youre-registered)
 2. [Decide how you will submit your ballot](#decide-how-you-will-submit-your-ballot)
-  1. [Voting by mail](#voting-by-mail)
-  2. [Voting in person](#voting-in-person)
+    1. [Voting by mail](#voting-by-mail)
+    2. [Voting in person](#voting-in-person)
 3. *[Vote](#vote)*
 4. [Prepare to wait for results](#prepare-to-wait-for-the-results)
 5. [What can we do right now?](#what-can-we-do-right-now)
