@@ -1,5 +1,11 @@
 # Why am I saying this now?
 
+<blockquote>
+  <p>Before mass leaders seize the power to fit reality to their lies, their propaganda is marked by its extreme contempt for facts as such, for in their opinion fact depends entirely on the power of man who can fabricate it.
+  </p>
+  <footer>Hannah Arendt, <cite>The Origins of Totalitarianism</cite></footer>
+</blockquote>
+
 Because we are voting during a plague, under a fascist government.
 
 * The Trump administration has
