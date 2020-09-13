@@ -47,7 +47,7 @@ Consider voting by mail or voting absentee, in order to keep yourself and others
 
 ### Voting by mail
 
-Some states, such as Colorado, vote entirely by mail every year—ballots are sent to all registered voters before an election. Otherwise, voting absentee lets you vote by mail, usually because you physically can’t go to the polls. This year, many states have fewer restrictions on absentee voting because of the Covid-19 pandemic. Depending on your state, you may need to cite fear of Covid-19 as a justification for voting absentee. ([Vote.org](https://www.vote.org/absentee-voting-rules/), [FiveThirtyEight](https://projects.fivethirtyeight.com/how-to-vote-2020/), [NBC News](https://www.nbcnews.com/specials/plan-your-vote-state-by-state-guide-voting-by-mail-early-in-person-voting-election/index.html))
+Some states, such as Colorado, vote entirely by mail every year—ballots are sent to all registered voters before an election. Otherwise, voting absentee lets you vote by mail, usually because you physically can’t go to the polls. ([National Conference of State Legislatures (NCSL)](https://www.ncsl.org/research/elections-and-campaigns/absentee-and-early-voting.aspx)) This year, many states have fewer restrictions on absentee voting because of the Covid-19 pandemic. Depending on your state, you may need to cite fear of Covid-19 as a justification for voting absentee. ([Vote.org](https://www.vote.org/absentee-voting-rules/), [FiveThirtyEight](https://projects.fivethirtyeight.com/how-to-vote-2020/), [NBC News](https://www.nbcnews.com/specials/plan-your-vote-state-by-state-guide-voting-by-mail-early-in-person-voting-election/index.html), [NCSL](https://www.ncsl.org/research/elections-and-campaigns/absentee-and-mail-voting-policies-in-effect-for-the-2020-election.aspx))
 
 * If you need to, apply to vote by mail ASAP. ([FiveThirtyEight](https://projects.fivethirtyeight.com/how-to-vote-2020/), [Wall Street Journal](https://www.wsj.com/articles/how-to-vote-by-mail-in-every-state-11597840923), [NBC News](https://www.nbcnews.com/specials/plan-your-vote-state-by-state-guide-voting-by-mail-early-in-person-voting-election/index.html))
   * If you’re able and if your local government allows it, consider submitting your application without mailing it, by:
@@ -71,7 +71,7 @@ Some states, such as Colorado, vote entirely by mail every year—ballots are se
 
 Some states will only accept mail-in ballots up until the polls close on Election Day. Others will accept mail-in ballots that have been postmarked by Election Day, as long as they are received by a set date. ([FiveThirtyEight](https://projects.fivethirtyeight.com/how-to-vote-2020/), [Wall Street Journal](https://www.wsj.com/articles/how-to-vote-by-mail-in-every-state-11597840923), [NBC News](https://www.nbcnews.com/specials/plan-your-vote-state-by-state-guide-voting-by-mail-early-in-person-voting-election/index.html))
 
-There are ongoing lawsuits over how states should handle mail-in ballots this year—consider checking your state’s vote-by-mail guidelines every so often. ([FiveThirtyEight](https://projects.fivethirtyeight.com/how-to-vote-2020/))
+There are ongoing lawsuits over how states should handle mail-in ballots this year—consider checking your state’s vote-by-mail guidelines every so often. ([NCSL](https://www.ncsl.org/research/elections-and-campaigns/absentee-and-mail-voting-policies-in-effect-for-the-2020-election.aspx), [FiveThirtyEight](https://projects.fivethirtyeight.com/how-to-vote-2020/))
 
 ### Voting in person
 
@@ -112,7 +112,7 @@ States differ on:
   * Make sure you’re using a ballpoint pen with dark ink.
   * Make sure your marks heavy and dark.
   * Try not to give anyone any excuse to say that your ballot is invalid.
-* Do *not* take a photo of your ballot. Doing so may invalidate it.
+* Do *not* take a photo of your ballot unless you know your state allows it. ([Law&Crime.com](https://lawandcrime.com/high-profile/are-voting-selfies-legal-we-have-the-answer-in-all-50-states/))
   * However, you do have the right to talk about who you voted for.
 * If you’re voting in person, try to do so during off-peak times.
     * Follow guidelines on reducing the spread of Covid-19. ([CDC](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html))
@@ -131,7 +131,7 @@ States differ on:
 With so many people voting by mail this year, **no one will know the outcome of the election for weeks**.
 
 * Many states are scrambling to put infrastructure in place to process so many the paper ballots.
-* Some states can’t legally count mail-in ballots until Election Day. ([National Conference of State Legislatures](https://www.ncsl.org/research/elections-and-campaigns/absentee-and-mail-voting-policies-in-effect-for-the-2020-election.aspx))
+* Some states can’t legally count mail-in ballots until Election Day. ([NCSL](https://www.ncsl.org/research/elections-and-campaigns/absentee-and-mail-voting-policies-in-effect-for-the-2020-election.aspx))
 * States that allow ballots to be postmarked by Election Day will have to count ballots as they arrive, within a set timeframe. ([FiveThirtyEight](https://projects.fivethirtyeight.com/how-to-vote-2020/))
 
 Beyond the logistics of voting during the Covid-19 pandemic, there’s also the reality of voting under the Trump administration:

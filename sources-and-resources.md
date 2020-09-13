@@ -13,7 +13,8 @@
   * [“Election Protection”](https://www.vote.org/election-protection/).
 * [Rock the Vote](https://www.rockthevote.org/).
 * [U.S. Voting Laws](https://www.usa.gov/voting-laws) from USA.gov.
-* National Conference of State Legislatures has useful information on the electoral process across states:
+* [Election Official Directory and State Voting Requirements](https://www.usvotefoundation.org/vote/eoddomestic.htm) from the U.S. Vote Foundation.
+* National Conference of State Legislatures (NCSL) has useful information on the electoral process across states:
   * [“Voting outside the polling place: Absentee, all-mail and other voting at home options”](https://www.ncsl.org/research/elections-and-campaigns/absentee-and-early-voting.aspx). 2020-08-28.
   * [“Absentee and mail voting policies in effect for the 2020 election”](https://www.ncsl.org/research/elections-and-campaigns/absentee-and-mail-voting-policies-in-effect-for-the-2020-election.aspx). 2020-09-04.
 * [“Explore voting information by your state”](https://www.ourhomes-ourvotes.org/voterinformationbystate) from the National Low Income Housing Coalition. Includes information on whether ID is needed, and what to do if you don’t have a home address.
@@ -23,12 +24,11 @@
 * [“How to vote in the 2020 election”](https://projects.fivethirtyeight.com/how-to-vote-2020/) from FiveThirtyEight. Updated 2020-09-09.
 * [“Plan your vote”](https://www.nbcnews.com/specials/plan-your-vote-state-by-state-guide-voting-by-mail-early-in-person-voting-election/index.html) from NBC News. No listed date. Straightforward breakdown of state-by-state rules for voting, especially by mail.
 * [“How to vote by mail in every state”](https://www.wsj.com/articles/how-to-vote-by-mail-in-every-state-11597840923) from the Wall Street Journal. Updated 2020-08-20.
-* [Election Official Directory and State Voting Requirements](https://www.usvotefoundation.org/vote/eoddomestic.htm) from the U.S. Vote Foundation.
 * [“Mail-in voting versus absentee voting: Differences to know before Election Day”](https://www.cnet.com/how-to/mail-in-voting-versus-absentee-voting-differences-to-know-before-election-day/) from CNet. 2020-09-03.
 * [“Election Mail” FAQ and resources](https://about.usps.com/what/government-services/election-mail/) from the U.S. Postal Service.
 * [“Re: Election Mail”](https://about.usps.com/newsroom/national-releases/2020/2020-05-29-marshall-to-election-officials-re-election-mail.pdf) from the U.S. Postal Service. Correspondence by Thomas J. Marshall, general counsel for USPS, to election officials. 2020-05-29.
-* [“New voting laws revive fights over ‘ballot harvesting’”](https://www.snopes.com/ap/2020/08/17/new-voting-laws-revive-fights-over-ballot-harvesting/) by _The Associated Press_. Published on Snopes.com. 2020-08-17.
-* [“Are voting selfies legal? We have the answer in all 50 states”] from LawandCrime.com. 2016-09-07.
+* [“New voting laws revive fights over ‘ballot harvesting’”](https://www.snopes.com/ap/2020/08/17/new-voting-laws-revive-fights-over-ballot-harvesting/) from _The Associated Press_. Published on Snopes.com. 2020-08-17.
+* [“Are voting selfies legal? We have the answer in all 50 states”](https://lawandcrime.com/high-profile/are-voting-selfies-legal-we-have-the-answer-in-all-50-states/) from LawandCrime.com. 2016-09-07. (Outdated article, but a good starting point.)
 * [“Don’t selfie your ballot?”](https://www.snopes.com/fact-check/dont-selfie-your-ballot/) from Snopes.com. 2012-09-06.
 
 
