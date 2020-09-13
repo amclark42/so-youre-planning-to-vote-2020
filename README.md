@@ -1,5 +1,7 @@
 # So You Want to Vote in Fascist America
 
+*Updated 2020-09-12.*
+
 2020 is a difficult year to have a U.S. presidential election. Between the Covid-19 pandemic and voter disenfrancisement, we’re facing an election season full of fear and confusion. I compiled this document and a [companion list of resources](./sources-and-resources.md) to try to cut through that confusion and give others a place to start planning their vote.
 
 **The information here was not compiled in a vacuum, and it is *not* comprehensive.** There are questions I have not thought to ask, and scenarios I have not considered. For transparency, some notes about me: I only have lived experience with voting in Illinois and Massachusetts. I am white and Mexican, and genderqueer. I have:
@@ -24,7 +26,7 @@ Again, **this information is not comprehensive.** I plan to update these documen
   2. [Voting in person](#voting-in-person)
 3. *[Vote](#vote)*
 4. [Prepare to wait for results](#prepare-to-wait-for-the-results)
-5. [What can we do now?](#what-can-we-do-now)
+5. [What can we do right now?](#what-can-we-do-right-now)
 
 
 ## Make sure you’re registered
@@ -146,7 +148,7 @@ Beyond the logistics of voting during the Covid-19 pandemic, there’s also the 
 
 The lawsuits and analysis have already started. November 3rd will not be the end of them, I’m sorry to say. ([FiveThirtyEight](https://projects.fivethirtyeight.com/how-to-vote-2020/)) There is also a strong likelihood that we’ll see a spike in domestic terrorism. ([Center for Strategic & International Studies](https://www.csis.org/analysis/escalating-terrorism-problem-united-states))
 
-No matter what, the wait is going to be painful, protracted, exhausting. Try to remember that November 3rd is not a finish line. <!-- What can I do after? -->
+No matter what, the wait is going to be painful, protracted, exhausting. Try to remember that November 3rd is not a finish line but a milestone. <!-- What can I do after? -->
 
 
 ## What can we do right now?
