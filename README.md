@@ -1,6 +1,6 @@
 # So You Want to Vote in Fascist America
 
-*Updated 2020-09-12.* [Changelog]((https://github.com/amclark42/so-youre-planning-to-vote-2020/commits/main))).
+*Updated 2020-09-12.* [Changelog](https://github.com/amclark42/so-youre-planning-to-vote-2020/commits/main).
 
 2020 is a difficult year to have a U.S. presidential election. Between the Covid-19 pandemic and voter disenfrancisement, we’re facing an election season full of fear and confusion. I compiled this document and a [companion list of resources](./sources-and-resources.md) to try to cut through that confusion and give others a place to start planning their vote.
 
