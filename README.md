@@ -49,7 +49,7 @@ Consider voting by mail or voting absentee, in order to keep yourself and others
 
 ### Voting by mail
 
-Some states, such as Colorado, vote entirely by mail every year—ballots are sent to all registered voters before an election. Otherwise, voting absentee lets you vote by mail, usually because you physically can’t go to the polls. ([National Conference of State Legislatures (NCSL)](https://www.ncsl.org/research/elections-and-campaigns/absentee-and-early-voting.aspx)) This year, many states have fewer restrictions on absentee voting because of the Covid-19 pandemic. Depending on your state, you may need to cite fear of Covid-19 as a justification for voting absentee. ([Vote.org](https://www.vote.org/absentee-voting-rules/), [FiveThirtyEight](https://projects.fivethirtyeight.com/how-to-vote-2020/), [NBC News](https://www.nbcnews.com/specials/plan-your-vote-state-by-state-guide-voting-by-mail-early-in-person-voting-election/index.html), [NCSL](https://www.ncsl.org/research/elections-and-campaigns/absentee-and-mail-voting-policies-in-effect-for-the-2020-election.aspx))
+Some states, such as Colorado, vote entirely by mail every year—ballots are sent to all registered voters before an election. Otherwise, voting absentee lets you vote by mail, usually because you physically can’t go to the polls. ([National Conference of State Legislatures (NCSL)](https://www.ncsl.org/research/elections-and-campaigns/absentee-and-early-voting.aspx), [NASS](https://www.nass.org/can-i-vote/absentee-early-voting)) This year, many states have fewer restrictions on absentee voting because of the Covid-19 pandemic. Depending on your state, you may need to cite fear of Covid-19 as a justification for voting absentee. ([Vote.org](https://www.vote.org/absentee-voting-rules/), [FiveThirtyEight](https://projects.fivethirtyeight.com/how-to-vote-2020/), [NBC News](https://www.nbcnews.com/specials/plan-your-vote-state-by-state-guide-voting-by-mail-early-in-person-voting-election/index.html), [NCSL](https://www.ncsl.org/research/elections-and-campaigns/absentee-and-mail-voting-policies-in-effect-for-the-2020-election.aspx))
 
 * If you need to, apply to vote by mail ASAP. ([FiveThirtyEight](https://projects.fivethirtyeight.com/how-to-vote-2020/), [Wall Street Journal](https://www.wsj.com/articles/how-to-vote-by-mail-in-every-state-11597840923), [NBC News](https://www.nbcnews.com/specials/plan-your-vote-state-by-state-guide-voting-by-mail-early-in-person-voting-election/index.html))
   * If you’re able and if your local government allows it, consider submitting your application without mailing it, by:
@@ -90,6 +90,27 @@ If you’re voting in person, make plans to keep the risk of infection low, both
 * Show respect for everyone else voting in-person, but especially show respect for poll workers, who will face increased risk to themselves and their families.
 * As soon as you can after voting, disinfect and/or wash your hands for 20 seconds.
 
+You may need or want to prepare documents to bring to your polling place. ([VoteRiders](https://www.voteriders.org/), [Lambda Legal](https://www.lambdalegal.org/vote)) These might include:
+
+* an ID;
+* a voter registration card;
+* a recent utility bill for your current address;
+* the number for the National Election Protection Hotline, 1-866-OUR-VOTE ([National Election Protection Hotline](https://866ourvote.org/)); and
+* notes on how you plan to vote (your local election authority may have a sample ballot online).
+
+Some additional resources...
+
+* ...if you are homeless:
+  * [National Low Income Housing Coalition](https://www.ourhomes-ourvotes.org/voterinformationbystate),
+  * [National Homeless Coalition](https://nationalhomeless.org/wp-content/uploads/2018/08/2018-Manual_for-web.pdf).
+* ...if you have been imprisoned:
+  * [HeadCount](https://www.headcount.org/wp-content/uploads/2020/05/FelonMap.pdf),
+  * [NCSL](https://www.ncsl.org/research/elections-and-campaigns/felon-voting-rights.aspx).
+* ...if your ID lists a name and/or gender marker that doesn’t match what you look like:
+  * [National Center for Transgender Equality](https://transformthevote.org/voting),
+  * [Lambda Legal](https://www.lambdalegal.org/vote),
+  * [GLAAD](https://www.glaad.org/action).
+
 If you need to take time off of work in order to vote, check the guidelines for your area. About 30 states have laws expressing your right to do so, usually with advance notice to your employer. Request time off from your employer ASAP. ([Workplace Fairness](https://www.workplacefairness.org/voting-rights-time-off-work))
 
 * Your employer may have their own guidelines on requests to vote during work hours.
@@ -114,11 +135,15 @@ States differ on:
   * Make sure you’re using a ballpoint pen with dark ink.
   * Make sure your marks heavy and dark.
   * Try not to give anyone any excuse to say that your ballot is invalid.
-* Do *not* take a photo of your ballot unless you know your state allows it. ([Law&Crime.com](https://lawandcrime.com/high-profile/are-voting-selfies-legal-we-have-the-answer-in-all-50-states/))
-  * However, you do have the right to talk about who you voted for.
+* Do *not* take a photo of your ballot, unless you know your state allows it. ([Law&Crime.com](https://lawandcrime.com/high-profile/are-voting-selfies-legal-we-have-the-answer-in-all-50-states/))
+  * However, you do have the right to talk about who you voted for, as long as it’s outside the polling place.
 * If you’re voting in person, try to do so during off-peak times.
     * Follow guidelines on reducing the spread of Covid-19. ([CDC](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html))
-    * ... <!-- If you're disenfranchised at your polling place... -->
+    * If you are harassed, told you cannot vote, or turned away, here are some options you can take: ([American Civil Liberties Union](https://www.aclu.org/sites/default/files/field_pdf_file/kyr-voterintimidation-v03.pdf), [Lambda Legal](https://www.lambdalegal.org/vote))
+      * Try to find and get help from a volunteer poll observer.
+      * Call the National Election Protection Hotline, 1-866-OUR-VOTE. 
+      * Call the U.S. Department of Justice Voting Rights Hotline, 1-800-253-3931. ([U.S. DoJ, Civil Rights Division, Voting Section](https://www.justice.gov/crt/voting-section))
+      * If you can’t get assistance, request a provisional ballot. Your ballot will be kept and, once you prove your eligibility, your vote will be counted.
     * If it’s time for the polls to close and you haven’t voted yet, *remain in line.* If you leave, you will not be able to cast a ballot in person.
 * Tell people that you’ve voted!
   * Voting is always important, but this year it’s *really* important.
