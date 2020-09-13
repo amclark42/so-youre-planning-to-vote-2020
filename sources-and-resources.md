@@ -2,6 +2,8 @@
 
 [Here are Joe Biden’s plans for the work he’ll do in office.](https://joebiden.com/joes-vision/)
 
+[Here is the current guidance from the Centers of Disease Control and Prevention (CDC) on protecting yourself from Covid-19.](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html)
+
 ## How to vote
 
 * [Vote.org](https://www.vote.org):
@@ -23,6 +25,11 @@
 * [“How to vote by mail in every state”](https://www.wsj.com/articles/how-to-vote-by-mail-in-every-state-11597840923) from the Wall Street Journal. Updated 2020-08-20.
 * [Election Official Directory and State Voting Requirements](https://www.usvotefoundation.org/vote/eoddomestic.htm) from the U.S. Vote Foundation.
 * [“Mail-in voting versus absentee voting: Differences to know before Election Day”](https://www.cnet.com/how-to/mail-in-voting-versus-absentee-voting-differences-to-know-before-election-day/) from CNet. 2020-09-03.
+* [“Election Mail” FAQ and resources](https://about.usps.com/what/government-services/election-mail/) from the U.S. Postal Service.
+* [“Re: Election Mail”](https://about.usps.com/newsroom/national-releases/2020/2020-05-29-marshall-to-election-officials-re-election-mail.pdf) from the U.S. Postal Service. Correspondence by Thomas J. Marshall, general counsel for USPS, to election officials. 2020-05-29.
+* [“New voting laws revive fights over ‘ballot harvesting’”](https://www.snopes.com/ap/2020/08/17/new-voting-laws-revive-fights-over-ballot-harvesting/) by _The Associated Press_. Published on Snopes.com. 2020-08-17.
+* [“Are voting selfies legal? We have the answer in all 50 states”] from LawandCrime.com. 2016-09-07.
+* [“Don’t selfie your ballot?”](https://www.snopes.com/fact-check/dont-selfie-your-ballot/) from Snopes.com. 2012-09-06.
 
 
 ## How to work for an equitable election
@@ -35,6 +42,7 @@
   * [“Help America Vote: National Poll Worker Recruitment Day”](https://www.eac.gov/help-america-vote) from the U.S. Election Assistance Commission.
   * [Work Elections](https://www.workelections.com/).
   * [Power the Polls](https://www.powerthepolls.org/).
+  * [“How to become a volunteer voter registrar”](https://twitter.com/JamesMWilliam18/status/1134487920297910274) by Twitter user JamesMWilliam18. 2020-05-31.
 * Support the U.S. Postal Service:
   * [Save the Post Office](https://www.apwu.org/savepostoffice) from the American Postal Workers Union (APWU).
   * [“The U.S.P.S. is under attack”](https://redgoldsparks.tumblr.com/post/626805444003971072/the-usps-is-under-attack-compiled-by-maia-kobabe) by Maia Kobabe. 2020-08-15.
@@ -49,6 +57,7 @@
 
 ## November 3rd and beyond
 
+* [“Parties ready for court battles over virus-era voting rights”](https://apnews.com/71adf90dabe4d6ccab781df75aafd76a) from _The Associated Press_. 2020-04-07.
 * [“The voting will end Nov. 3. The legal battle probably won’t.”](https://www.nytimes.com/2020/08/08/us/politics/voting-nov-3-election.html) from the _New York Times_. 2020-08-08. Updated 2020-08-17.
 * [“November 3: What can go wrong”](https://terikanefield-blog.com/november-3-what-can-go-wrong-expanded-list/) by Teri Kanefield. 2020-08-29.
 * [“Trump refuses to commit to accepting election result as Biden enjoys poll lead”](https://www.theguardian.com/us-news/2020/jul/19/trump-joe-biden-coronavirus-polls) from _The Guardian_. 2020-07-19.

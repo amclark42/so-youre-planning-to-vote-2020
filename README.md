@@ -16,24 +16,28 @@ I believe it’s important to give everyone the information to vote, even if you
 
 Again, **this information is not comprehensive.** I plan to update these documents when I can (there’s a record of my changes [here](https://github.com/amclark42/so-youre-planning-to-vote-2020/commits/main)). Even so, check the rules of your local election authority, and whenever you can, confirm that my information is correct. Misinformation about the election is not just abundant but being intentionally spread. I’m not immune to misinformation! In 2016, I reblogged Russian propaganda, believing it was truth. I encourage you to check my work.
 
+**Contents:**
+
 1. [Make sure you’re registered](#make-sure-youre-registered)
 2. [Decide how you will submit your ballot](#decide-how-you-will-submit-your-ballot)
   1. [Voting by mail](#voting-by-mail)
   2. [Voting in person](#voting-in-person)
 3. *[Vote](#vote)*
-4. [Prepare to wait for results](#prepare-to-wait-for-results)
+4. [Prepare to wait for results](#prepare-to-wait-for-the-results)
 5. [What can we do now?](#what-can-we-do-now)
 
 
 ## Make sure you’re registered
 
+Find the website for your local election authority. If you need help, try using a tool such as the U.S. Vote Foundation “[Election Official Directory & State Voting Requirements & Information](https://www.usvotefoundation.org/vote/eoddomestic.htm).”
+
 Check your voter registration status online. [Vote.org](https://www.vote.org/am-i-registered-to-vote/) and the [National Association of Secretaries of State](https://www.nass.org/can-I-vote/voter-registration-status) (NASS) can help.
 
 * Are you (still) registered?
 * Is your street address correct?
-* If necessary, apply or reapply ASAP.
+* If necessary, apply or reapply ASAP, and by your state’s registration deadline. ([FiveThirtyEight](https://projects.fivethirtyeight.com/how-to-vote-2020/), [NBC News](https://www.nbcnews.com/specials/plan-your-vote-state-by-state-guide-voting-by-mail-early-in-person-voting-election/index.html))
   * If you’re able and if your local government allows it, consider emailing or faxing your voter registration forms and documents, rather than mailing them.
-  * If mailing the application, allow two or three weeks for the application to arrive, to be on the safe side.
+  * If mailing the application, allow one or two weeks for the application to arrive, to be on the safe side.
   * You may need to follow up to make sure your application has been accepted and is valid.
 
 
@@ -43,15 +47,16 @@ Consider voting by mail or voting absentee, in order to keep yourself and others
 
 ### Voting by mail
 
-Some states, such as Colorado, vote entirely by mail every year—ballots are sent to all registered voters before an election. Otherwise, voting absentee lets you vote by mail, usually because you physically can’t go to the polls. This year, many states have fewer restrictions on absentee voting because of the Covid-19 pandemic. Depending on your state, you may need to cite fear of Covid-19 as a justification for voting absentee.
+Some states, such as Colorado, vote entirely by mail every year—ballots are sent to all registered voters before an election. Otherwise, voting absentee lets you vote by mail, usually because you physically can’t go to the polls. This year, many states have fewer restrictions on absentee voting because of the Covid-19 pandemic. Depending on your state, you may need to cite fear of Covid-19 as a justification for voting absentee. ([Vote.org](https://www.vote.org/absentee-voting-rules/), [FiveThirtyEight](https://projects.fivethirtyeight.com/how-to-vote-2020/), [NBC News](https://www.nbcnews.com/specials/plan-your-vote-state-by-state-guide-voting-by-mail-early-in-person-voting-election/index.html))
 
-* If you need to, apply to vote by mail ASAP.
+* If you need to, apply to vote by mail ASAP. ([FiveThirtyEight](https://projects.fivethirtyeight.com/how-to-vote-2020/), [Wall Street Journal](https://www.wsj.com/articles/how-to-vote-by-mail-in-every-state-11597840923), [NBC News](https://www.nbcnews.com/specials/plan-your-vote-state-by-state-guide-voting-by-mail-early-in-person-voting-election/index.html))
   * If you’re able and if your local government allows it, consider submitting your application without mailing it, by:
     * applying online,
     * emailing or faxing the application, or
     * hand-delivering the application.
   * If mailing the application, allow at least a week for the application to arrive. Two or three weeks to be on the safe side.
   * You may need to follow up to make sure your application has been accepted and is valid.
+* In some places, you may need to have your vote witnessed or notarized, or you may need to include proof of ID. ([FiveThirtyEight](https://projects.fivethirtyeight.com/how-to-vote-2020/))
 * Some places will offer secure drop boxes for returning your ballot.
   * If you have concerns about leaving your ballot in one of these boxes, check the website of your local election authority. They may have information about their security measures, such as:
     * placing ballot boxes in high-traffic areas,
@@ -60,19 +65,24 @@ Some states, such as Colorado, vote entirely by mail every year—ballots are se
     * etc.
   * Ballots are collected from these boxes regularly.
 * If you plan to mail your ballot, try to get it to the post office ASAP—ideally, within a few days after you receive it.
-  * Again, to be on the safe side, expect two or three weeks of transit.
-* You may have the option to track your ballot online, so you’ll be able to see when it arrives.
+  * The USPS recommends mailing ballots at least a week before their deadline. ([USPS](https://about.usps.com/what/government-services/election-mail/))
+  * To be on the safe side, expect two or three weeks before arrival.
+* You may have the option to track your ballot online, so you’ll be able to see when it arrives. ([NBC News](https://www.nbcnews.com/specials/plan-your-vote-state-by-state-guide-voting-by-mail-early-in-person-voting-election/index.html))
 
-Some states will only accept mail-in ballots up until the polls close on Election Day. Others will accept mail-in ballots that have been postmarked by Election Day, regardless of when they arrive. There are ongoing lawsuits over how states should handle mail-in ballots this year—consider checking your state’s vote-by-mail guidelines every so often.
+Some states will only accept mail-in ballots up until the polls close on Election Day. Others will accept mail-in ballots that have been postmarked by Election Day, as long as they are received by a set date. ([FiveThirtyEight](https://projects.fivethirtyeight.com/how-to-vote-2020/), [Wall Street Journal](https://www.wsj.com/articles/how-to-vote-by-mail-in-every-state-11597840923), [NBC News](https://www.nbcnews.com/specials/plan-your-vote-state-by-state-guide-voting-by-mail-early-in-person-voting-election/index.html))
+
+There are ongoing lawsuits over how states should handle mail-in ballots this year—consider checking your state’s vote-by-mail guidelines every so often. ([FiveThirtyEight](https://projects.fivethirtyeight.com/how-to-vote-2020/))
 
 ### Voting in person
 
 This is important to recognize: America is in a public health crisis. Covid-19 spreads quickly, and it will still be here in November. The pandemic adds risk to your trip to the polls. The risk of Covid-19 is not just risk that *you* will get it. It is also risk that *your family* will get it, and the people that *they* come into contact with as well. It is also risk that you will *give* the virus to others at the polls: people in line, poll workers, election judges, poll monitors, and all *their* families.
 
-If you’re voting in person, make plans to keep the risk of infection low, both for yourself and for others:
+Some polling places may close if there aren’t enough people willing to work the polls during the pandemic. Check with your local election authority before heading out to vote. ([FiveThirtyEight](https://projects.fivethirtyeight.com/how-to-vote-2020/))
 
-* Try to vote early and during off-peak times.
-* Wear a mask over your nose and mouth while waiting in line, and indoors at the polling station.
+If you’re voting in person, make plans to keep the risk of infection low, both for yourself and for others. ([CDC](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html))
+
+* Try to vote early and/or during off-peak times. ([FiveThirtyEight](https://projects.fivethirtyeight.com/how-to-vote-2020/))
+* Wear a mask over your nose and mouth while waiting in line and indoors at the polling station.
 * Do not touch your face or the fabric of your mask.
 * Keep to a distance of at least 6 feet from other people.
 * Show respect for everyone else voting in-person, but especially show respect for poll workers, who will face increased risk to themselves and their families.
@@ -105,7 +115,7 @@ States differ on:
 * Do *not* take a photo of your ballot. Doing so may invalidate it.
   * However, you do have the right to talk about who you voted for.
 * If you’re voting in person, try to do so during off-peak times.
-    * Follow guidelines on reducing the spread of Covid-19.
+    * Follow guidelines on reducing the spread of Covid-19. ([CDC](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html))
     * ... <!-- If you're disenfranchised at your polling place... -->
     * If it’s time for the polls to close and you haven’t voted yet, *remain in line.* If you leave, you will not be able to cast a ballot in person.
 * Tell people that you’ve voted!
@@ -113,7 +123,7 @@ States differ on:
   * By sharing the fact that you voted, you’re helping to normalize the idea that voting is important and that people care about it.
   * Try not to be dismissive of people who don’t intend to vote.
     * If you’re able, talk about it. Ask them why they’ve made that choice.
-    * But don’t feel obligated to waste energy on someone who refuses to listen and won’t acknowledge your opinions.
+    * But don’t feel obligated to waste energy on someone who refuses to listen and who won’t acknowledge your opinions.
 
 
 ## Prepare to wait for the results
@@ -122,11 +132,11 @@ With so many people voting by mail this year, **no one will know the outcome of 
 
 * Many states are scrambling to put infrastructure in place to process so many the paper ballots.
 * Some states can’t legally count mail-in ballots until Election Day. ([National Conference of State Legislatures](https://www.ncsl.org/research/elections-and-campaigns/absentee-and-mail-voting-policies-in-effect-for-the-2020-election.aspx))
-* States that allow ballots to be postmarked by Election Day will have to count ballots as they arrive, within a set timeframe.
+* States that allow ballots to be postmarked by Election Day will have to count ballots as they arrive, within a set timeframe. ([FiveThirtyEight](https://projects.fivethirtyeight.com/how-to-vote-2020/))
 
 Beyond the logistics of voting during the Covid-19 pandemic, there’s also the reality of voting under the Trump administration:
 
-* Expect lawsuits.
+* Expect lawsuits. ([NY Times](https://www.nytimes.com/2020/08/08/us/politics/voting-nov-3-election.html), [FiveThirtyEight](https://projects.fivethirtyeight.com/how-to-vote-2020/), [AP](https://apnews.com/71adf90dabe4d6ccab781df75aafd76a))
   * Expect lawsuits over the validity of ballots.
   * Expect lawsuits over how long local governments are allowed to tally results.
   * Expect lawsuits over voter suppression tactics by local governments and poll workers.
@@ -134,7 +144,9 @@ Beyond the logistics of voting during the Covid-19 pandemic, there’s also the 
   * Expect premature declarations of victory by Trump.
 * Try not to expect an outcome until one candidate concedes.
 
-The wait is going to be painful, protracted, exhausting. <!-- What can I do after? -->
+The lawsuits and analysis have already started. November 3rd will not be the end of them, I’m sorry to say. ([FiveThirtyEight](https://projects.fivethirtyeight.com/how-to-vote-2020/)) There is also a strong likelihood that we’ll see a spike in domestic terrorism.
+
+No matter what, the wait is going to be painful, protracted, exhausting. Try to remember that November 3rd is not a finish line. <!-- What can I do after? -->
 
 
 ## What can we do right now?
@@ -153,21 +165,21 @@ I feel hopeless a lot these days. Everything feels like too much. For me, despai
   * We can keep calls short and focused on one issue.
   * Here’s an example introduction: “Hi, I’m [ name ] and I’m a constituent living at [ address ]. I urge the [ Senator, Representative ] to...”
 * We can join local “get out the vote” campaigns.
-  * We might send [text messages](https://www.mobilize.us/2020victory/) or [hand-written postcards](https://postcardstovoters.org/) reminding people to vote.
+  * We might participate in phone bank events. ([Democratic National Committee](https://www.mobilize.us/2020victory/))
+  * We might send hand-written postcards reminding people to vote. ([Postcards to Voters](https://postcardstovoters.org/))
   * We might drive voters to ballot drop boxes or polling places.
   * We might bring water and food to people waiting in line.
-* We can consider [applying to be a poll worker](https://www.workelections.com/), if our health and circumstances allow it.
+* We can consider applying to be a poll worker, if our health and circumstances allow it. ([U.S. Election Assistance Commission](https://www.eac.gov/help-america-vote), [Work Elections](https://www.workelections.com/), [Power the Polls](https://www.powerthepolls.org/))
   * Poll workers are often retirees. Many will choose not to risk their lives this year, and they shouldn’t have to make that choice.
   * If there aren’t enough poll workers, the number of polling places might go down.
   * With fewer polling places, there will be longer lines and everyone will have a higher risk of infection.
-* In some states, we may be able to strengthen the voting process in other ways:
+* In some states, we may be able to strengthen the voting process in other ways. ([@JamesMWilliam18](https://twitter.com/JamesMWilliam18/status/1134487920297910274))
   * We might volunteer to work as a translator or interpreter.
   * We might volunteer to greet and direct voters.
   * We might volunteer to register voters.
   * We might volunteer to monitor the polls.
   * We might volunteer to count votes.
-* We can fill out the [2020 U.S. Census form](https://2020census.gov/) ASAP.
-  * Among other things, information from the Census is used to determine how many seats our states get in the U.S. House of Representatives.
+* We can fill out the [2020 U.S. Census form](https://2020census.gov/) ASAP. (Among other things, information from the Census is used to determine how many seats our states get in the U.S. House of Representatives.)
 
 We can look for all the people quietly helping in the background. We can look to all the people loudly demanding change. We can look at all the people standing beside us. We can *be* these people for others.
 
