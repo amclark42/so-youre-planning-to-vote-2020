@@ -4,7 +4,7 @@
   <p>Before mass leaders seize the power to fit reality to their lies, their propaganda is marked by its extreme contempt for facts as such, for in their opinion fact depends entirely on the power of man who can fabricate it.
   </p>
   <br/>
-  <footer>Hannah Arendt, <cite>The Origins of Totalitarianism</cite></footer>
+  <footer>Hannah Arendt, <cite><a href="https://en.wikipedia.org/wiki/The_Origins_of_Totalitarianism" target="_blank">The Origins of Totalitarianism</a></cite>. 1951.</footer>
 </blockquote>
 
 Because we’re all confused, exhausted, scared, distrustful of others and especially our public institutions. Because we are voting during a plague which has widened every inequity in our society. Because we are voting under an administration that supposedly represents America, but only works to benefit a small number of Americans, and makes life significantly harder for everyone else.

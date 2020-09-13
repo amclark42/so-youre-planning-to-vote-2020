@@ -1,6 +1,6 @@
 # So You Want to Vote in Fascist America
 
-*Updated 2020-09-12.* [Changelog](https://github.com/amclark42/so-youre-planning-to-vote-2020/commits/main).
+*Updated 2020-09-13.* [Changelog](https://github.com/amclark42/so-youre-planning-to-vote-2020/commits/main).
 
 2020 is a difficult year to have a U.S. presidential election. Between the Covid-19 pandemic and voter disenfrancisement, we’re facing an election season full of fear and confusion. I compiled this document and a [companion list of resources](./sources-and-resources.md) to try to cut through that confusion and give others a place to start planning their vote.
 
@@ -16,7 +16,7 @@ I am liberal in my politics. I’m writing this now because I see American democ
 
 I believe it’s important to give everyone the information to vote, even if you’re voting for Trump. Our right to vote is threatened now even more than usual, and this year, everyone needs to plan how to safely exercise that right. But I’m not going to pretend to be neutral on this.
 
-Again, **this information is not comprehensive.** I plan to update these documents when I can (there’s a record of my changes [here](https://github.com/amclark42/so-youre-planning-to-vote-2020/commits/main)). Even so, check the rules of your local election authority, and whenever you can, confirm that my information is correct. Misinformation about the election is not just abundant but being intentionally spread. I’m not immune to misinformation! In 2016, I reblogged Russian propaganda, believing it was truth. I encourage you to check my work.
+Again, **this information is not comprehensive.** I plan to update these documents when I can (there’s a record of my changes [here](https://github.com/amclark42/so-youre-planning-to-vote-2020/commits/main)). Even so, check the rules of your local election authority, and whenever you can, confirm that my information is correct. Misinformation about the election is not just abundant but being intentionally spread. I’m not immune to disinformation! In 2016, I reblogged Russian propaganda, believing it was truth. I encourage you to check my work.
 
 **Contents:**
 
