@@ -27,6 +27,7 @@ Again, **this information is not comprehensive.** I plan to update these documen
 3. *[Vote](#vote)*
 4. [Prepare to wait for results](#prepare-to-wait-for-the-results)
 5. [What can we do right now?](#what-can-we-do-right-now)
+6. (Links to) [Appendices](#appendices)
 
 
 ## Make sure you’re registered
@@ -211,3 +212,9 @@ I feel hopeless a lot these days. Everything feels like too much. For me, despai
 We can look for all the people quietly helping in the background. We can look to all the people loudly demanding change. We can look at all the people standing beside us. We can *be* these people for others.
 
 Finally: just living can be an act of resistance, of defiance. It’s okay if some days, that’s all we can manage.
+
+
+## Appendices
+
+* [Why now?](./why-now.md)
+* [Sources and Resources](./sources-and-resources.md)
