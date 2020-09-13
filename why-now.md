@@ -3,10 +3,11 @@
 <blockquote>
   <p>Before mass leaders seize the power to fit reality to their lies, their propaganda is marked by its extreme contempt for facts as such, for in their opinion fact depends entirely on the power of man who can fabricate it.
   </p>
+  <br/>
   <footer>Hannah Arendt, <cite>The Origins of Totalitarianism</cite></footer>
 </blockquote>
 
-Because we are voting during a plague, under a fascist government.
+Because we’re all confused, exhausted, scared, distrustful of others and especially our public institutions. Because we are voting during a plague which has widened every inequity in our society. Because we are voting under an administration that supposedly represents America, but only works to benefit a small number of Americans, and makes life significantly harder for everyone else.
 
 * The Trump administration has
   * systematically disassembled federal agencies,
@@ -14,7 +15,6 @@ Because we are voting during a plague, under a fascist government.
   * fired whistleblowers,
   * forced out inspectors general, and
   * incited violence by police and white supremacists.
-* Trust in public institutions is at a severely low point.
 * Russian misinformation campaigns are working to tip the electoral balance toward Trump, just as they did in 2016.
 * Meanwhile, ICE is still keeping migrants and asylum-seekers in cages along the Mexican border.
 * Police officers are still killing Black Americans disproportionately; too many are still getting away with it.
