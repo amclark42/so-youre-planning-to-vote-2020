@@ -1,5 +1,7 @@
 # Sources and Resources
 
+*Updated 2020-09-15.* [Changelog](https://github.com/amclark42/so-youre-planning-to-vote-2020/commits/main/sources-and-resources.md).
+
 [Here are Joe Biden’s plans for the work he’ll do in office.](https://joebiden.com/joes-vision/)
 
 [Here is the current guidance from the Centers of Disease Control and Prevention (CDC) on protecting yourself from Covid-19.](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html)
@@ -14,15 +16,15 @@
 * [“Voting Information”](https://www.rockthevote.org/how-to-vote/) from Rock the Vote.
 * [U.S. Voting Laws](https://www.usa.gov/voting-laws) from USA.gov.
 * [Election Official Directory and State Voting Requirements](https://www.usvotefoundation.org/vote/eoddomestic.htm) from the U.S. Vote Foundation.
-* [“Voting outside the polling place: Absentee, all-mail and other voting at home options”](https://www.ncsl.org/research/elections-and-campaigns/absentee-and-early-voting.aspx) from the National Conference of State Legislatures (NCSL). 2020-08-28.
+* [“Voting outside the polling place: Absentee, all-mail and other voting at home options”](https://www.ncsl.org/research/elections-and-campaigns/absentee-and-early-voting.aspx) from the National Conference of State Legislatures (NCSL). Updated 2020-09-10.
 * [“State laws on voting rights/time off to vote”](https://www.workplacefairness.org/voting-rights-time-off-work) from Workplace Fairness. No listed date.
 * [“Don’t selfie your ballot?”](https://www.snopes.com/fact-check/dont-selfie-your-ballot/) from Snopes.com. 2012-09-06.
   * [“Are voting selfies legal? We have the answer in all 50 states”](https://lawandcrime.com/high-profile/are-voting-selfies-legal-we-have-the-answer-in-all-50-states/) from LawandCrime.com. 2016-09-07. (Outdated article, but a good starting point.)
 
 ### Voting by mail because of Covid-19
 
-* [“Absentee and mail voting policies in effect for the 2020 election”](https://www.ncsl.org/research/elections-and-campaigns/absentee-and-mail-voting-policies-in-effect-for-the-2020-election.aspx) from NCSL. 2020-09-04.
-* [“How to vote in the 2020 election”](https://projects.fivethirtyeight.com/how-to-vote-2020/) from FiveThirtyEight. Updated 2020-09-09.
+* [“Absentee and mail voting policies in effect for the 2020 election”](https://www.ncsl.org/research/elections-and-campaigns/absentee-and-mail-voting-policies-in-effect-for-the-2020-election.aspx) from NCSL. Updated 2020-09-14.
+* [“How to vote in the 2020 election”](https://projects.fivethirtyeight.com/how-to-vote-2020/) from FiveThirtyEight. Updated 2020-09-14.
 * [“Plan your vote”](https://www.nbcnews.com/specials/plan-your-vote-state-by-state-guide-voting-by-mail-early-in-person-voting-election/index.html) from NBC News. No listed date. Straightforward breakdown of state-by-state rules for voting, especially by mail.
 * [“How to vote by mail in every state”](https://www.wsj.com/articles/how-to-vote-by-mail-in-every-state-11597840923) from the Wall Street Journal. Updated 2020-08-20.
 * [“Mail-in voting versus absentee voting: Differences to know before Election Day”](https://www.cnet.com/how-to/mail-in-voting-versus-absentee-voting-differences-to-know-before-election-day/) from CNet. 2020-09-03.
@@ -125,5 +127,9 @@ Reports and news items:
 * [“New cyberattacks targeting U.S. elections”](https://blogs.microsoft.com/on-the-issues/2020/09/10/cyberattacks-us-elections-trump-biden/) from Microsoft. 2020-09-10.
 * [“Conservative judicial decisions keep boosting GOP voter suppression”](https://www.motherjones.com/2020-elections/2020/09/florida-felon-voting-fines/) from _Mother Jones_. 2020-09-11.
 * [“By most accounts, the Massachusetts primary was a historic success. Now comes the hard part”] from the _Boston Globe_. 2020-09-11.
+* [“Federal judge blocks USPS from sending mailers containing incorrect voting information to Coloradans”](https://www.denverpost.com/2020/09/12/jena-griswold-usps-lawsuit-election-misinformation/) from the _Denver Post_. 2020-09-12.
 * [“‘I have blood on my hands’: A whistleblower says Facebook ignored global political manipulation”](https://www.buzzfeednews.com/article/craigsilverman/facebook-ignore-political-manipulation-whistleblower-memo) from BuzzFeed News. 2020-09-14.
 * [“The media’s role in calling an election”](https://www.wbur.org/onpoint/2020/09/14/media-election-results) from _On Point_, NPR. 2020-09-14.
+* [“South Carolina GOP mailer manipulates Trump tweet to remove vote-by-mail fearmongering”](https://www.huffpost.com/entry/south-carolina-gop-trump-mail-in-voting_n_5f6100cdc5b65fd7b855c668?eub) from the _Huffington Post_. 2020-09-15.
+* [“When will you know if Biden or Trump wins? It could depend on absentee ballot rules in these states”](https://www.latimes.com/politics/story/2020-09-15/absentee-ballot-rules-battleground-states) from the _Los Angeles Times_. 2020-09-15.
+
