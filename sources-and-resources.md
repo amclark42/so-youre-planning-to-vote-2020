@@ -110,15 +110,20 @@ Reports and news items:
 * [“Cleaning up or purging voter rolls?”](https://www.npr.org/2019/12/20/790319853/are-states-purging-or-cleaning-voter-registration-rolls) from NPR. 2019-12-20.
 * [“U.S. Postal Service watchdog to probe service woes as worries rise about mail ballots”](https://www.reuters.com/article/us-usa-election-states-idUSKCN25A2M6) from Reuters. 2020-08-14.
 * [“Source hacking: Media manipulation in practice”](https://datasociety.net/wp-content/uploads/2019/09/Source-Hacking_Hi-res.pdf) by Joan Donovan and Biran Friedberg. 2019-09.
+* [“Election officials warn it could take weeks to determine results in November”](https://www.cnbc.com/2020/08/14/election-2020-state-officials-prepare-for-delayed-results-of-up-to-a-few-weeks.html) from CNBC. 2020-08-14.
 * [“Georgia voter roll purge errors”](https://www.acluga.org/sites/default/files/georgia_voter_roll_purge_errors_report.pdf) from the American Civil Liberties Union (ACLU) of Georgia. 2020-09-01.
   * [Georgia 2020 Purge List](https://www.savemyvote2020.org/georgia-voter-purge-list-2020/) from the Palast Investigative Fund.
 * [“Russians again targeting Americans with disinformation”](https://www.nytimes.com/2020/09/01/technology/facebook-russia-disinformation-election.html?smid=tw-share) from the _New York Times_. 2020-09-01.
 * [“1 million primary ballots were mailed late, postal service watchdog says”](https://www.nytimes.com/2020/09/01/us/politics/postal-service-late-ballots.html) from the _New York Times_. 2020-09-01.
 * [“Trump encourages people in North Carolina to vote twice, which is illegal”](https://www.nytimes.com/2020/09/02/us/politics/trump-people-vote-twice.html) from the _New York Times_. 2020-09-02.
+* [“Massachusetts primary 2020: I voted by mail and in person; Here’s how election officials processed my vote”](https://www.masslive.com/politics/2020/09/massachusetts-primary-2020-i-voted-by-mail-and-in-person-heres-how-election-officials-processed-my-vote.html) by Steph Solis from MassLive. 2020-09-02.
 * [“The Trump administration continues to erode election security”](https://www.wired.com/story/trump-election-security-dhs-doj-odni/) from _Wired_. 2020-09-03.
 * [“Nella Explains the USPS (Part 1)”](https://www.youtube.com/watch?v=ubBngQtnJOo) by Antonella Inserra. Video. 2020-09-03.
 * [“DHS draft document: White supremacists are greatest terror threat”](https://www.politico.com/news/2020/09/04/white-supremacists-terror-threat-dhs-409236) from Politico. 2020-09-04.
 * [“In Georgia, officials are investigating hundreds of cases of double voting”](https://www.nytimes.com/2020/09/08/us/politics/georgia-double-voting.html) from the _New York Times_. 2020-09-08.
 * [“Four questions before the courts that will shape how we vote”](https://www.washingtonpost.com/politics/2020/09/09/four-questions-courts-are-deciding-that-will-shape-how-we-vote-by-mail-november/) from the _Washington Post_. 2020-09-09.
+* [“New cyberattacks targeting U.S. elections”](https://blogs.microsoft.com/on-the-issues/2020/09/10/cyberattacks-us-elections-trump-biden/) from Microsoft. 2020-09-10.
 * [“Conservative judicial decisions keep boosting GOP voter suppression”](https://www.motherjones.com/2020-elections/2020/09/florida-felon-voting-fines/) from _Mother Jones_. 2020-09-11.
-
+* [“By most accounts, the Massachusetts primary was a historic success. Now comes the hard part”] from the _Boston Globe_. 2020-09-11.
+* [“‘I have blood on my hands’: A whistleblower says Facebook ignored global political manipulation”](https://www.buzzfeednews.com/article/craigsilverman/facebook-ignore-political-manipulation-whistleblower-memo) from BuzzFeed News. 2020-09-14.
+* [“The media’s role in calling an election”](https://www.wbur.org/onpoint/2020/09/14/media-election-results) from _On Point_, NPR. 2020-09-14.

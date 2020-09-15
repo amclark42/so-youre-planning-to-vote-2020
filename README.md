@@ -1,8 +1,8 @@
 # So You Want to Vote in Fascist America
 
-*Updated 2020-09-13.* [Changelog](https://github.com/amclark42/so-youre-planning-to-vote-2020/commits/main).
+*Updated 2020-09-15.* [Changelog](https://github.com/amclark42/so-youre-planning-to-vote-2020/commits/main).
 
-2020 is a difficult year to have a U.S. presidential election. Between the Covid-19 pandemic and voter disenfrancisement, we’re facing an election season full of fear and confusion. I compiled this document and a [companion list of resources](./sources-and-resources.md) to try to cut through that confusion and give others a place to start planning their vote.
+2020 is a difficult year to have a U.S. presidential election. Between the Covid-19 pandemic and voter disenfranchisement, we’re facing an election season full of fear and confusion. I compiled this document and a [companion list of resources](./sources-and-resources.md) to try to cut through that confusion and give others a place to start planning their vote.
 
 **The information here was not compiled in a vacuum, and it is *not* comprehensive.** There are questions I have not thought to ask, and scenarios I have not considered. For transparency, some notes about me: I only have lived experience with voting in Illinois and Massachusetts. I am white and Mexican, and genderqueer. I have:
 
@@ -96,7 +96,7 @@ You may need or want to prepare documents to bring to your polling place. ([Vote
 * an ID;
 * a voter registration card;
 * a recent utility bill for your current address;
-* the number for the National Election Protection Hotline, 1-866-OUR-VOTE ([National Election Protection Hotline](https://866ourvote.org/)); and
+* the number for the [National Election Protection Hotline](https://866ourvote.org/), 1-866-OUR-VOTE; and
 * notes on how you plan to vote (your local election authority may have a sample ballot online).
 
 Some additional resources...
@@ -105,6 +105,7 @@ Some additional resources...
   * [National Low Income Housing Coalition](https://www.ourhomes-ourvotes.org/voterinformationbystate),
   * [National Homeless Coalition](https://nationalhomeless.org/wp-content/uploads/2018/08/2018-Manual_for-web.pdf).
 * ...if you have been imprisoned:
+  * [The Sentencing Project](https://www.sentencingproject.org/issues/felony-disenfranchisement/)
   * [HeadCount](https://www.headcount.org/wp-content/uploads/2020/05/FelonMap.pdf),
   * [NCSL](https://www.ncsl.org/research/elections-and-campaigns/felon-voting-rights.aspx).
 * ...if your ID lists a name and/or gender marker that doesn’t match what you look like:
@@ -142,8 +143,8 @@ States differ on:
     * Follow guidelines on reducing the spread of Covid-19. ([CDC](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html))
     * If you are harassed, told you cannot vote, or turned away, here are some options you can take: ([American Civil Liberties Union](https://www.aclu.org/sites/default/files/field_pdf_file/kyr-voterintimidation-v03.pdf), [Lambda Legal](https://www.lambdalegal.org/vote))
       * Try to find and get help from a volunteer poll observer.
-      * Call the National Election Protection Hotline, 1-866-OUR-VOTE. 
-      * Call the U.S. Department of Justice Voting Rights Hotline, 1-800-253-3931. ([U.S. DoJ, Civil Rights Division, Voting Section](https://www.justice.gov/crt/voting-section))
+      * Call the [National Election Protection Hotline](https://866ourvote.org/), 1-866-OUR-VOTE. 
+      * Call the U.S. Department of Justice Voting Rights Hotline, 1-800-253-3931. ([Voting Section of the U.S. Department of Justice Civil Rights Division](https://www.justice.gov/crt/voting-section))
       * If you can’t get assistance, request a provisional ballot. Your ballot will be kept and, once you prove your eligibility, your vote will be counted.
     * If it’s time for the polls to close and you haven’t voted yet, *remain in line.* If you leave, you will not be able to cast a ballot in person.
 * Tell people that you’ve voted!
@@ -182,7 +183,7 @@ No matter what, the wait is going to be painful, protracted, exhausting. Try to 
 I feel hopeless a lot these days. Everything feels like too much. For me, despair and frustration come from feeling powerless, from feeling alone. Compiling this information was a way for me to start working past those feelings through acting, and by reaching out. The list in this section is just as much for myself as it is for you.
 
 * We can put pressure on our local officials to add ballot dropboxes, and to make sure there is enough personal protective equipment for poll workers.
-* We can mail or email the members of the [USPS Board of Governors](https://about.usps.com/who/leadership/board-governors/) to express our experiences and worries about recent USPS service rollbacks. ([Twitter thread](https://twitter.com/NastyOldWomyn/status/1294349964966006788))
+* We can mail or email the members of the [USPS Board of Governors](https://about.usps.com/who/leadership/board-governors/) to express our experiences and worries about recent USPS service rollbacks. ([Twitter thread by @NastyOldWomyn](https://twitter.com/NastyOldWomyn/status/1294349964966006788))
 * We can call our representatives and senators to demand funding and support for the U.S. Postal Service.
   * Legislation (as of 2020-09-09):
     * [H.R. 8015: Delivering for America Act](https://www.govtrack.us/congress/bills/116/hr8015),
@@ -201,7 +202,7 @@ I feel hopeless a lot these days. Everything feels like too much. For me, despai
   * Poll workers are often retirees. Many will choose not to risk their lives this year, and they shouldn’t have to make that choice.
   * If there aren’t enough poll workers, the number of polling places might go down.
   * With fewer polling places, there will be longer lines and everyone will have a higher risk of infection.
-* In some states, we may be able to strengthen the voting process in other ways. ([@JamesMWilliam18](https://twitter.com/JamesMWilliam18/status/1134487920297910274))
+* In some states, we may be able to strengthen the voting process in other ways. ([Twitter thread by @JamesMWilliam18](https://twitter.com/JamesMWilliam18/status/1134487920297910274))
   * We might volunteer to work as a translator or interpreter.
   * We might volunteer to greet and direct voters.
   * We might volunteer to register voters.
@@ -216,5 +217,5 @@ Finally: just living can be an act of resistance, of defiance. It’s okay if so
 
 ## Appendices
 
-* [Why now?](./why-now.md)
-* [Sources and Resources](./sources-and-resources.md)
+* [Why am I saying this now?](./why-now.md)
+* [Sources and resources](./sources-and-resources.md)
