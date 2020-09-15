@@ -1,4 +1,4 @@
-# So You Want to Vote in Fascist America
+# So You’re Planning to Vote in Fascist America
 
 *Updated 2020-09-15.* [Changelog](https://github.com/amclark42/so-youre-planning-to-vote-2020/commits/main).
 
