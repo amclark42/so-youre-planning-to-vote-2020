@@ -1,6 +1,6 @@
 # Sources and Resources
 
-*Updated 2020-09-15.* [Changelog](https://github.com/amclark42/so-youre-planning-to-vote-2020/commits/main/sources-and-resources.md).
+*Updated 2020-09-21.* [Changelog](https://github.com/amclark42/so-youre-planning-to-vote-2020/commits/main/sources-and-resources.md).
 
 [Here are Joe Biden’s plans for the work he’ll do in office.](https://joebiden.com/joes-vision/)
 
@@ -18,6 +18,7 @@
 * [Election Official Directory and State Voting Requirements](https://www.usvotefoundation.org/vote/eoddomestic.htm) from the U.S. Vote Foundation.
 * [“Voting outside the polling place: Absentee, all-mail and other voting at home options”](https://www.ncsl.org/research/elections-and-campaigns/absentee-and-early-voting.aspx) from the National Conference of State Legislatures (NCSL). Updated 2020-09-10.
 * [“State laws on voting rights/time off to vote”](https://www.workplacefairness.org/voting-rights-time-off-work) from Workplace Fairness. No listed date.
+* [Vote411](https://www.vote411.org/) from the League of Women Voters Education Fund. Guides, and information on candidates (submitted by candidates).
 * [“Don’t selfie your ballot?”](https://www.snopes.com/fact-check/dont-selfie-your-ballot/) from Snopes.com. 2012-09-06.
   * [“Are voting selfies legal? We have the answer in all 50 states”](https://lawandcrime.com/high-profile/are-voting-selfies-legal-we-have-the-answer-in-all-50-states/) from LawandCrime.com. 2016-09-07. (Outdated article, but a good starting point.)
 
@@ -37,8 +38,8 @@
 * [National election protection hotline](https://866ourvote.org/) from the Lawyers’ Committee for Civil Rights Under Law. **Hotlines:**
   * English: 1-866-OUR-VOTE (1-866-687-8683)
   * Spanish: 1-888-VE-Y-VOTA (1-888-839-8682)
-  * Asian languages: 1-888-API-VOTE (1-888-274-8683)
-  * Arabic: 1-844-YallaUS (1-844-925-5287)
+  * Asian languages (multilingual): 1-888-API-VOTE (1-888-274-8683)
+  * Arabic: 1-844-YALLA-US (1-844-925-5287)
 * [Voting Section](https://www.justice.gov/crt/voting-section) of the U.S. Department of Justice, Civil Rights Division.
   * [Report a Federal Voting Rights Violation](https://civilrights.justice.gov/report/).
   * [“Frequently asked questions”](https://www.justice.gov/crt/frequently-asked-questions-2) from the U.S. Department of Justice Civil Rights Division.
@@ -46,6 +47,7 @@
 * [“Know your rights: Voter intimidation”](https://www.aclu.org/sites/default/files/field_pdf_file/kyr-voterintimidation-v03.pdf) from the American Civil Liberties Union (ACLU).
 * [VoteRiders](https://www.voteriders.org/). Voter ID assistance, with a state-by-state breakdown.
 * [“Know your voting rights”](https://votolatino.org/article/know-your-voting-rights/) from Voto Latino. 2020.
+* [“Everything you always wanted to know about redistricting but were afraid to ask”](https://www.aclu.org/report/everything-you-always-wanted-know-about-redistricting-were-afraid-ask?redirect=voting-rights/everything-you-always-wanted-know-about-redistricting-were-afraid-ask) from ACLU. 2010.
 
 ### Voting without a permanent address
 
@@ -132,4 +134,9 @@ Reports and news items:
 * [“The media’s role in calling an election”](https://www.wbur.org/onpoint/2020/09/14/media-election-results) from _On Point_, NPR. 2020-09-14.
 * [“South Carolina GOP mailer manipulates Trump tweet to remove vote-by-mail fearmongering”](https://www.huffpost.com/entry/south-carolina-gop-trump-mail-in-voting_n_5f6100cdc5b65fd7b855c668?eub) from the _Huffington Post_. 2020-09-15.
 * [“When will you know if Biden or Trump wins? It could depend on absentee ballot rules in these states”](https://www.latimes.com/politics/story/2020-09-15/absentee-ballot-rules-battleground-states) from the _Los Angeles Times_. 2020-09-15.
-
+* [“85 million pieces of mail delayed in a week under DeJoy, Senate report finds”](https://www.forbes.com/sites/alisondurkee/2020/09/16/postal-service-louis-dejoy-senate-report-85-million-pieces-of-mail-delayed-in-a-week/#6f7ed99e2df0) from _Forbes_. 2020-09-16.
+* [“The F.B.I. director warns of Russian interference and white supremacist violence”](https://www.nytimes.com/2020/09/17/us/politics/fbi-russia.html) from the _New York Times_. 2020-09-17.
+* [“Judge blocks Postal Service changes that slowed mail”](https://www.politico.com/news/2020/09/17/us-judge-blocks-postal-service-changes-that-slowed-mail-417276) from Politico. 2020-09-17.
+  * Links to [“USPS Impact”](https://uspsimpact2020.com/), which tracks changes to the USPS and their impact across different states.
+* [“McConnell vows vote on Ginsburg replacement as her death upends the 2020 race”](https://www.nytimes.com/2020/09/18/us/politics/mitch-mcconnell-supreme-court-ruth-bader-ginsburg.html) from the _New York Times_. 2020-09-18. Updated 2020-09-20.
+* [“Trump supporters disrupt early voting in Virginia”](https://www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.html) from the _New York Times_. 2020-09-19.
