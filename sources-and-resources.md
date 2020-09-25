@@ -1,10 +1,10 @@
 # Sources and Resources
 
-*Updated 2020-09-21.* [Changelog](https://github.com/amclark42/so-youre-planning-to-vote-2020/commits/main/sources-and-resources.md).
+*Updated 2020-09-24.* [Changelog](https://github.com/amclark42/so-youre-planning-to-vote-2020/commits/main/sources-and-resources.md).
 
-[Here are Joe Biden’s plans for the work he’ll do in office.](https://joebiden.com/joes-vision/)
+Here are [Joe Biden’s plans for the work he’ll do in office.](https://joebiden.com/joes-vision/)
 
-[Here is the current guidance from the Centers of Disease Control and Prevention (CDC) on protecting yourself from Covid-19.](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html)
+Here is the [World Health Organization’s advice for preventing the spread of Covid-19](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public). The Centers of Disease Control and Prevention (CDC) [also have Covid-19 guidance](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html).
 
 ## How to vote
 
@@ -33,6 +33,7 @@
   * [“Re: Election Mail”](https://about.usps.com/newsroom/national-releases/2020/2020-05-29-marshall-to-election-officials-re-election-mail.pdf) from the U.S. Postal Service. Correspondence by Thomas J. Marshall, general counsel for USPS, to election officials. 2020-05-29.
 * [“New voting laws revive fights over ‘ballot harvesting’”](https://www.snopes.com/ap/2020/08/17/new-voting-laws-revive-fights-over-ballot-harvesting/) from _The Associated Press_. Published on Snopes.com. 2020-08-17.
 
+
 ### Resisting voter suppression tactics
 
 * [National election protection hotline](https://866ourvote.org/) from the Lawyers’ Committee for Civil Rights Under Law. **Hotlines:**
@@ -44,6 +45,7 @@
   * [Report a Federal Voting Rights Violation](https://civilrights.justice.gov/report/).
   * [“Frequently asked questions”](https://www.justice.gov/crt/frequently-asked-questions-2) from the U.S. Department of Justice Civil Rights Division.
   * Voting Rights hotline: 1-800-253-3931.
+* [“Voting rights litigation 2020”](https://www.brennancenter.org/our-work/court-cases/voting-rights-litigation-2020) from the Brennan Center for Justice. 2020-07-28. Updated 2020-09-22.
 * [“Know your rights: Voter intimidation”](https://www.aclu.org/sites/default/files/field_pdf_file/kyr-voterintimidation-v03.pdf) from the American Civil Liberties Union (ACLU).
 * [VoteRiders](https://www.voteriders.org/). Voter ID assistance, with a state-by-state breakdown.
 * [“Know your voting rights”](https://votolatino.org/article/know-your-voting-rights/) from Voto Latino. 2020.
@@ -92,51 +94,85 @@
 
 ## November 3rd and beyond
 
-* [“Parties ready for court battles over virus-era voting rights”](https://apnews.com/71adf90dabe4d6ccab781df75aafd76a) from _The Associated Press_. 2020-04-07.
-* [“The escalating terrorism problem in the United States”](https://www.csis.org/analysis/escalating-terrorism-problem-united-states) from the Center for Strategic & International Studies. 2020-06-17.
-* [“Trump refuses to commit to accepting election result as Biden enjoys poll lead”](https://www.theguardian.com/us-news/2020/jul/19/trump-joe-biden-coronavirus-polls) from _The Guardian_. 2020-07-19.
-* [“A bipartisan group secretly gathered to game out a contested Trump-Biden election. It wasn’t pretty”](https://www.bostonglobe.com/2020/07/25/nation/bipartisan-group-secretly-gathered-game-out-contested-trump-biden-election-it-wasnt-pretty) from the _Boston Globe_. 2020-07-26.
-* [“This ‘war game’ maps out what happens if the president contests the election”](https://www.wbur.org/onpoint/2020/07/28/election-war-games-trump-scenario) from _On Point_, National Public Radio (NPR). 2020-07-28.
-* [“The voting will end Nov. 3. The legal battle probably won’t.”](https://www.nytimes.com/2020/08/08/us/politics/voting-nov-3-election.html) from the _New York Times_. 2020-08-08. Updated 2020-08-17.
+* [“The election that could break America”](https://www.theatlantic.com/magazine/archive/2020/11/what-if-trump-refuses-concede/616424/) from _The Atlantic_. 2020-11 issue preview. Accessed 2020-09-24.
 * [“November 3: What can go wrong”](https://terikanefield-blog.com/november-3-what-can-go-wrong-expanded-list/) by Teri Kanefield. 2020-08-29.
+* [“The voting will end Nov. 3. The legal battle probably won’t.”](https://www.nytimes.com/2020/08/08/us/politics/voting-nov-3-election.html) from the _New York Times_. 2020-08-08. Updated 2020-08-17.
+* [“This ‘war game’ maps out what happens if the president contests the election”](https://www.wbur.org/onpoint/2020/07/28/election-war-games-trump-scenario) from _On Point_, National Public Radio (NPR). 2020-07-28.
+* [“A bipartisan group secretly gathered to game out a contested Trump-Biden election. It wasn’t pretty”](https://www.bostonglobe.com/2020/07/25/nation/bipartisan-group-secretly-gathered-game-out-contested-trump-biden-election-it-wasnt-pretty) from the _Boston Globe_. 2020-07-26.
+* [“Trump refuses to commit to accepting election result as Biden enjoys poll lead”](https://www.theguardian.com/us-news/2020/jul/19/trump-joe-biden-coronavirus-polls) from _The Guardian_. 2020-07-19.
+* [“The escalating terrorism problem in the United States”](https://www.csis.org/analysis/escalating-terrorism-problem-united-states) from the Center for Strategic & International Studies. 2020-06-17.
+* [“Parties ready for court battles over virus-era voting rights”](https://apnews.com/71adf90dabe4d6ccab781df75aafd76a) from _The Associated Press_. 2020-04-07.
 
 
 ## (Some of) what we’re up against
 
-Broadly:
+### Broadly
 
 * [WTF Just Happened Today](https://whatthefuckjusthappenedtoday.com/) compiled by Matt Kiser. Daily news summaries on the Trump presidency.
 * [“Elections” tag](https://www.politifact.com/elections/) from PolitiFact.
 
-Reports and news items:
 
-* [“Whistleblower explains how Cambridge Analytica helped fuel U.S. ‘insurgency’”](https://www.npr.org/transcripts/768216311) from NPR. 2019-10-08.
-* [“Cleaning up or purging voter rolls?”](https://www.npr.org/2019/12/20/790319853/are-states-purging-or-cleaning-voter-registration-rolls) from NPR. 2019-12-20.
-* [“U.S. Postal Service watchdog to probe service woes as worries rise about mail ballots”](https://www.reuters.com/article/us-usa-election-states-idUSKCN25A2M6) from Reuters. 2020-08-14.
-* [“Source hacking: Media manipulation in practice”](https://datasociety.net/wp-content/uploads/2019/09/Source-Hacking_Hi-res.pdf) by Joan Donovan and Biran Friedberg. 2019-09.
-* [“Election officials warn it could take weeks to determine results in November”](https://www.cnbc.com/2020/08/14/election-2020-state-officials-prepare-for-delayed-results-of-up-to-a-few-weeks.html) from CNBC. 2020-08-14.
-* [“Georgia voter roll purge errors”](https://www.acluga.org/sites/default/files/georgia_voter_roll_purge_errors_report.pdf) from the American Civil Liberties Union (ACLU) of Georgia. 2020-09-01.
-  * [Georgia 2020 Purge List](https://www.savemyvote2020.org/georgia-voter-purge-list-2020/) from the Palast Investigative Fund.
-* [“Russians again targeting Americans with disinformation”](https://www.nytimes.com/2020/09/01/technology/facebook-russia-disinformation-election.html?smid=tw-share) from the _New York Times_. 2020-09-01.
-* [“1 million primary ballots were mailed late, postal service watchdog says”](https://www.nytimes.com/2020/09/01/us/politics/postal-service-late-ballots.html) from the _New York Times_. 2020-09-01.
-* [“Trump encourages people in North Carolina to vote twice, which is illegal”](https://www.nytimes.com/2020/09/02/us/politics/trump-people-vote-twice.html) from the _New York Times_. 2020-09-02.
-* [“Massachusetts primary 2020: I voted by mail and in person; Here’s how election officials processed my vote”](https://www.masslive.com/politics/2020/09/massachusetts-primary-2020-i-voted-by-mail-and-in-person-heres-how-election-officials-processed-my-vote.html) by Steph Solis from MassLive. 2020-09-02.
-* [“The Trump administration continues to erode election security”](https://www.wired.com/story/trump-election-security-dhs-doj-odni/) from _Wired_. 2020-09-03.
-* [“Nella Explains the USPS (Part 1)”](https://www.youtube.com/watch?v=ubBngQtnJOo) by Antonella Inserra. Video. 2020-09-03.
-* [“DHS draft document: White supremacists are greatest terror threat”](https://www.politico.com/news/2020/09/04/white-supremacists-terror-threat-dhs-409236) from Politico. 2020-09-04.
-* [“In Georgia, officials are investigating hundreds of cases of double voting”](https://www.nytimes.com/2020/09/08/us/politics/georgia-double-voting.html) from the _New York Times_. 2020-09-08.
-* [“Four questions before the courts that will shape how we vote”](https://www.washingtonpost.com/politics/2020/09/09/four-questions-courts-are-deciding-that-will-shape-how-we-vote-by-mail-november/) from the _Washington Post_. 2020-09-09.
-* [“New cyberattacks targeting U.S. elections”](https://blogs.microsoft.com/on-the-issues/2020/09/10/cyberattacks-us-elections-trump-biden/) from Microsoft. 2020-09-10.
-* [“Conservative judicial decisions keep boosting GOP voter suppression”](https://www.motherjones.com/2020-elections/2020/09/florida-felon-voting-fines/) from _Mother Jones_. 2020-09-11.
-* [“By most accounts, the Massachusetts primary was a historic success. Now comes the hard part”] from the _Boston Globe_. 2020-09-11.
-* [“Federal judge blocks USPS from sending mailers containing incorrect voting information to Coloradans”](https://www.denverpost.com/2020/09/12/jena-griswold-usps-lawsuit-election-misinformation/) from the _Denver Post_. 2020-09-12.
-* [“‘I have blood on my hands’: A whistleblower says Facebook ignored global political manipulation”](https://www.buzzfeednews.com/article/craigsilverman/facebook-ignore-political-manipulation-whistleblower-memo) from BuzzFeed News. 2020-09-14.
-* [“The media’s role in calling an election”](https://www.wbur.org/onpoint/2020/09/14/media-election-results) from _On Point_, NPR. 2020-09-14.
-* [“South Carolina GOP mailer manipulates Trump tweet to remove vote-by-mail fearmongering”](https://www.huffpost.com/entry/south-carolina-gop-trump-mail-in-voting_n_5f6100cdc5b65fd7b855c668?eub) from the _Huffington Post_. 2020-09-15.
-* [“When will you know if Biden or Trump wins? It could depend on absentee ballot rules in these states”](https://www.latimes.com/politics/story/2020-09-15/absentee-ballot-rules-battleground-states) from the _Los Angeles Times_. 2020-09-15.
-* [“85 million pieces of mail delayed in a week under DeJoy, Senate report finds”](https://www.forbes.com/sites/alisondurkee/2020/09/16/postal-service-louis-dejoy-senate-report-85-million-pieces-of-mail-delayed-in-a-week/#6f7ed99e2df0) from _Forbes_. 2020-09-16.
-* [“The F.B.I. director warns of Russian interference and white supremacist violence”](https://www.nytimes.com/2020/09/17/us/politics/fbi-russia.html) from the _New York Times_. 2020-09-17.
+### Reports and news items
+
+Organized by date, newest first.
+
+#### 2020
+
+##### September
+
+* [“Trump won’t commit to peaceful transfer of power if he loses the election”](https://www.cnbc.com/2020/09/23/trump-wont-commit-to-peaceful-transfer-of-power-if-he-loses-the-election.html) from CNBC. 2020-09-23.
+* [“Foreign actors and cybercriminals likely to spread disinformation regarding 2020 election results”](https://www.ic3.gov/media/2020/200922.aspx) from the U.S. Federal Bureau of Investigations (FBI). 2020-09-22.
+* [“Pennsylvania’s ‘naked ballot’ ruling will ‘cause electoral chaos,’ Philly commissioner warns”](https://www.phillyvoice.com/naked-ballots-pennsylvania-2020-electiion-mail-in-absentee-trump-biden/) from the _PhillyVoice_. 2020-09-21.
+  * [Letter to the Speaker and President of the Pennsylvania State Legislature](https://files7.philadelphiavotes.com/announcements/9-21-2020_Deeley_Letter_on_Secrecy_Envelope.pdf) by Philadelphia Commissioner Lisa M. Deeley. 2020-09-21.
+* [“Trump supporters disrupt early voting in Virginia”](https://www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.html) from the _New York Times_. 2020-09-19.
+* [“McConnell vows vote on Ginsburg replacement as her death upends the 2020 race”](https://www.nytimes.com/2020/09/18/us/politics/mitch-mcconnell-supreme-court-ruth-bader-ginsburg.html) from the _New York Times_. 2020-09-18. Updated 2020-09-20.
 * [“Judge blocks Postal Service changes that slowed mail”](https://www.politico.com/news/2020/09/17/us-judge-blocks-postal-service-changes-that-slowed-mail-417276) from Politico. 2020-09-17.
   * Links to [“USPS Impact”](https://uspsimpact2020.com/), which tracks changes to the USPS and their impact across different states.
-* [“McConnell vows vote on Ginsburg replacement as her death upends the 2020 race”](https://www.nytimes.com/2020/09/18/us/politics/mitch-mcconnell-supreme-court-ruth-bader-ginsburg.html) from the _New York Times_. 2020-09-18. Updated 2020-09-20.
-* [“Trump supporters disrupt early voting in Virginia”](https://www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.html) from the _New York Times_. 2020-09-19.
+* [“The F.B.I. director warns of Russian interference and white supremacist violence”](https://www.nytimes.com/2020/09/17/us/politics/fbi-russia.html) from the _New York Times_. 2020-09-17.
+* [“85 million pieces of mail delayed in a week under DeJoy, Senate report finds”](https://www.forbes.com/sites/alisondurkee/2020/09/16/postal-service-louis-dejoy-senate-report-85-million-pieces-of-mail-delayed-in-a-week/#6f7ed99e2df0) from _Forbes_. 2020-09-16.
+* [“South Carolina GOP mailer manipulates Trump tweet to remove vote-by-mail fearmongering”](https://www.huffpost.com/entry/south-carolina-gop-trump-mail-in-voting_n_5f6100cdc5b65fd7b855c668?eub) from the _Huffington Post_. 2020-09-15.
+* [“When will you know if Biden or Trump wins? It could depend on absentee ballot rules in these states”](https://www.latimes.com/politics/story/2020-09-15/absentee-ballot-rules-battleground-states) from the _Los Angeles Times_. 2020-09-15.
+* [“‘I have blood on my hands’: A whistleblower says Facebook ignored global political manipulation”](https://www.buzzfeednews.com/article/craigsilverman/facebook-ignore-political-manipulation-whistleblower-memo) from BuzzFeed News. 2020-09-14.
+* [“The media’s role in calling an election”](https://www.wbur.org/onpoint/2020/09/14/media-election-results) from _On Point_, NPR. 2020-09-14.
+* [“Federal judge blocks USPS from sending mailers containing incorrect voting information to Coloradans”](https://www.denverpost.com/2020/09/12/jena-griswold-usps-lawsuit-election-misinformation/) from the _Denver Post_. 2020-09-12.
+* [“By most accounts, the Massachusetts primary was a historic success. Now comes the hard part”] from the _Boston Globe_. 2020-09-11.
+* [“Conservative judicial decisions keep boosting GOP voter suppression”](https://www.motherjones.com/2020-elections/2020/09/florida-felon-voting-fines/) from _Mother Jones_. 2020-09-11.
+* [“New cyberattacks targeting U.S. elections”](https://blogs.microsoft.com/on-the-issues/2020/09/10/cyberattacks-us-elections-trump-biden/) from Microsoft. 2020-09-10.
+* [“Four questions before the courts that will shape how we vote”](https://www.washingtonpost.com/politics/2020/09/09/four-questions-courts-are-deciding-that-will-shape-how-we-vote-by-mail-november/) from the _Washington Post_. 2020-09-09.
+* [“In Georgia, officials are investigating hundreds of cases of double voting”](https://www.nytimes.com/2020/09/08/us/politics/georgia-double-voting.html) from the _New York Times_. 2020-09-08.
+* [“DHS draft document: White supremacists are greatest terror threat”](https://www.politico.com/news/2020/09/04/white-supremacists-terror-threat-dhs-409236) from Politico. 2020-09-04.
+* [“The Trump administration continues to erode election security”](https://www.wired.com/story/trump-election-security-dhs-doj-odni/) from _Wired_. 2020-09-03.
+* [“Nella Explains the USPS (Part 1)”](https://www.youtube.com/watch?v=ubBngQtnJOo) by Antonella Inserra. Video. 2020-09-03.
+* [“Trump encourages people in North Carolina to vote twice, which is illegal”](https://www.nytimes.com/2020/09/02/us/politics/trump-people-vote-twice.html) from the _New York Times_. 2020-09-02.
+* [“Massachusetts primary 2020: I voted by mail and in person; Here’s how election officials processed my vote”](https://www.masslive.com/politics/2020/09/massachusetts-primary-2020-i-voted-by-mail-and-in-person-heres-how-election-officials-processed-my-vote.html) by Steph Solis from MassLive. 2020-09-02.
+* [“Russians again targeting Americans with disinformation”](https://www.nytimes.com/2020/09/01/technology/facebook-russia-disinformation-election.html?smid=tw-share) from the _New York Times_. 2020-09-01.
+* [“1 million primary ballots were mailed late, postal service watchdog says”](https://www.nytimes.com/2020/09/01/us/politics/postal-service-late-ballots.html) from the _New York Times_. 2020-09-01.
+* [“Georgia voter roll purge errors”](https://www.acluga.org/sites/default/files/georgia_voter_roll_purge_errors_report.pdf) from the American Civil Liberties Union (ACLU) of Georgia. 2020-09-01.
+  * [Georgia 2020 Purge List](https://www.savemyvote2020.org/georgia-voter-purge-list-2020/) from the Palast Investigative Fund.
+
+##### August
+
+* [“U.S. Postal Service watchdog to probe service woes as worries rise about mail ballots”](https://www.reuters.com/article/us-usa-election-states-idUSKCN25A2M6) from Reuters. 2020-08-14.
+* [“Election officials warn it could take weeks to determine results in November”](https://www.cnbc.com/2020/08/14/election-2020-state-officials-prepare-for-delayed-results-of-up-to-a-few-weeks.html) from CNBC. 2020-08-14.
+
+##### May
+
+* [“Freed by court ruling, Republicans step up effort to patrol voting”](https://www.nytimes.com/2020/05/18/us/Voting-republicans-trump.html) from the _New York Times_. 2020-05-18.
+
+##### April
+
+* [“Conservative operatives float plan to place retired military, police officers as GOP poll watchers on election day”](https://theintercept.com/2020/04/11/republican-poll-watchers-vote-by-mail-voter-fraud/?ref=hvper.com) from _The Intercept_. 2020-04-11.
+
+
+#### 2019
+
+* [“Cleaning up or purging voter rolls?”](https://www.npr.org/2019/12/20/790319853/are-states-purging-or-cleaning-voter-registration-rolls) from NPR. 2019-12-20.
+* [“Mitch McConnell’s opposition to federal election security is hitting home”](https://www.motherjones.com/politics/2019/11/mitch-mcconnell-kentucky-election-security/) from _Mother Jones_. 2019-11-25.
+* [“Whistleblower explains how Cambridge Analytica helped fuel U.S. ‘insurgency’”](https://www.npr.org/transcripts/768216311) from NPR. 2019-10-08.
+* [“Source hacking: Media manipulation in practice”](https://datasociety.net/wp-content/uploads/2019/09/Source-Hacking_Hi-res.pdf) by Joan Donovan and Biran Friedberg. 2019-09.
+
+
+#### 2016
+
+* [“Donald Trump’s warning on election night sounds familiar to some immigrants”](https://www.nytimes.com/2016/10/22/us/politics/donald-trump-immigrants.html) from the _New York Times_. 2016-10-21.
+
