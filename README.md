@@ -1,6 +1,6 @@
 # So You’re Planning to Vote in Fascist America
 
-*Updated 2020-09-15.* [Changelog](https://github.com/amclark42/so-youre-planning-to-vote-2020/commits/main).
+*Updated 2020-10-04.* [Changelog](https://github.com/amclark42/so-youre-planning-to-vote-2020/commits/main).
 
 2020 is a difficult year to have a U.S. presidential election. Between the Covid-19 pandemic and voter disenfranchisement, we’re facing an election season full of fear and confusion. I compiled this document and a [companion list of resources](./sources-and-resources.md) to try to cut through that confusion and give others a place to start planning their vote.
 
@@ -28,6 +28,8 @@ Again, **this information is not comprehensive.** I plan to update these documen
 4. [Prepare to wait for results](#prepare-to-wait-for-the-results)
 5. [What can we do right now?](#what-can-we-do-right-now)
 6. (Links to) [Appendices](#appendices)
+    1. [Why am I saying this now?](./why-now.md)
+    2. [Sources and resources](./sources-and-resources.md)
 
 
 ## Make sure you’re registered
@@ -59,7 +61,14 @@ Some states, such as Colorado, vote entirely by mail every year—ballots are se
     * hand-delivering the application.
   * If mailing the application, allow at least a week for the application to arrive. Two or three weeks to be on the safe side.
   * You may need to follow up to make sure your application has been accepted and is valid.
-* In some places, you may need to have your vote witnessed or notarized, or you may need to include proof of ID. ([FiveThirtyEight](https://projects.fivethirtyeight.com/how-to-vote-2020/))
+* Follow the submission process outlined by your state: ([Business Insider](https://www.businessinsider.com/mistakes-that-can-disqualify-your-mail-absentee-ballot-2020-9))
+  * Provide the information your state requires in order to confirm your identity: ([FiveThirtyEight](https://projects.fivethirtyeight.com/how-to-vote-2020/), [NCSL](https://www.ncsl.org/research/elections-and-campaigns/vopp-table-14-how-states-verify-voted-absentee.aspx))
+    * Sign where indicated, using the most recent signature your local election authority has on file for you. The signature used to validate your identity might be the one you provided on your paper mail ballot application, for instance.
+    * In some places, you may need to have your vote witnessed or notarized.
+    * If necessary, include a photocopy of an acceptable form of ID. ([VoteRiders](https://www.voteriders.org/voterid/))
+  * Place your ballot in the privacy envelope as well as the outer envelope.
+  * Seal envelopes with moisture, not tape.
+  * If you're mailing your ballot, get your envelope postmarked in time to meet your state’s deadline.
 * Some places will offer secure drop boxes for returning your ballot.
   * If you have concerns about leaving your ballot in one of these boxes, check the website of your local election authority. They may have information about their security measures, such as:
     * placing ballot boxes in high-traffic areas,
@@ -70,6 +79,7 @@ Some states, such as Colorado, vote entirely by mail every year—ballots are se
 * If you plan to mail your ballot, try to get it to the post office ASAP—ideally, within a few days after you receive it.
   * The USPS recommends mailing ballots at least a week before their deadline. ([USPS](https://about.usps.com/what/government-services/election-mail/))
   * To be on the safe side, expect two or three weeks before arrival.
+* You may be able to hand-deliver your ballot to your local election authority, or directly to your polling place during an early voting period.
 * You may have the option to track your ballot online, so you’ll be able to see when it arrives. ([NBC News](https://www.nbcnews.com/specials/plan-your-vote-state-by-state-guide-voting-by-mail-early-in-person-voting-election/index.html))
 
 Some states will only accept mail-in ballots up until the polls close on Election Day. Others will accept mail-in ballots that have been postmarked by Election Day, as long as they are received by a set date. ([FiveThirtyEight](https://projects.fivethirtyeight.com/how-to-vote-2020/), [Wall Street Journal](https://www.wsj.com/articles/how-to-vote-by-mail-in-every-state-11597840923), [NBC News](https://www.nbcnews.com/specials/plan-your-vote-state-by-state-guide-voting-by-mail-early-in-person-voting-election/index.html))
@@ -91,7 +101,7 @@ If you’re voting in person, make plans to keep the risk of infection low, both
 * Show respect for everyone else voting in-person, but especially show respect for poll workers, who will face increased risk to themselves and their families.
 * As soon as you can after voting, disinfect and/or wash your hands for 20 seconds.
 
-You may need or want to prepare documents to bring to your polling place. ([VoteRiders](https://www.voteriders.org/), [Lambda Legal](https://www.lambdalegal.org/vote)) These might include:
+Prepare all documents you’ll need to bring to your polling place. ([VoteRiders](https://www.voteriders.org/), [Lambda Legal](https://www.lambdalegal.org/vote)) These might include:
 
 * an ID;
 * a voter registration card;
@@ -124,28 +134,35 @@ If you need to take time off of work in order to vote, check the guidelines for 
   * Check your state government’s website. You may be able to file a complaint against your employer.
 
 States differ on:
-  * whether you need to meet certain criteria in order for your request to be protected by law;
-  * whether you need to give notice to your employer, and how far in advance you need to do this;
-  * the amount of time you’ll have to vote;
-  * whether your time off must be paid or unpaid; and
-  * whether you need to give your employer proof that you voted.
+
+* whether you need to meet certain criteria in order for your request to be protected by law;
+* whether you need to give notice to your employer, and how far in advance you need to do this;
+* the amount of time you’ll have to vote;
+* whether your time off must be paid or unpaid; and
+* whether you need to give your employer proof that you voted.
 
 
 ## *VOTE*
 
-* Follow the instructions on your ballot carefully.
-  * Make sure you’re using a ballpoint pen with dark ink.
+* **Follow the instructions on your ballot carefully.**
+  * Make sure you’re using a ballpoint pen with blue or black ink.
   * Make sure your marks heavy and dark.
   * Try not to give anyone any excuse to say that your ballot is invalid.
 * Do *not* take a photo of your ballot, unless you know your state allows it. ([Law&Crime.com](https://lawandcrime.com/high-profile/are-voting-selfies-legal-we-have-the-answer-in-all-50-states/))
   * However, you do have the right to talk about who you voted for, as long as it’s outside the polling place.
+* If you’re voting absentee, follow the submission process outlined by your state, and affirm your identity as required. ([Business Insider](https://www.businessinsider.com/mistakes-that-can-disqualify-your-mail-absentee-ballot-2020-9))
+  * Provide the information needed to verify your identity, which may include: ([NCSL](https://www.ncsl.org/research/elections-and-campaigns/vopp-table-14-how-states-verify-voted-absentee.aspx))
+    * your signature;
+    * signatures from witnesses or a notary;
+    * a photocopy of your ID. ([VoteRiders](https://www.voteriders.org/voterid/))
+  * If you need help for any reason, check the website of your local election authority.
 * If you’re voting in person, try to do so during off-peak times.
     * Follow guidelines on reducing the spread of Covid-19. ([CDC](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html))
     * If you are harassed, told you cannot vote, or turned away, here are some options you can take: ([American Civil Liberties Union](https://www.aclu.org/sites/default/files/field_pdf_file/kyr-voterintimidation-v03.pdf), [Lambda Legal](https://www.lambdalegal.org/vote))
       * Try to find and get help from a volunteer poll observer.
       * Call the [National Election Protection Hotline](https://866ourvote.org/), 1-866-OUR-VOTE. 
       * Call the U.S. Department of Justice Voting Rights Hotline, 1-800-253-3931. ([Voting Section of the U.S. Department of Justice Civil Rights Division](https://www.justice.gov/crt/voting-section))
-      * If you can’t get assistance, request a provisional ballot. Your ballot will be kept and, once you prove your eligibility, your vote will be counted.
+      * If you can’t get assistance, request a provisional ballot to fill out. This ballot will be kept and, once you prove your eligibility, your vote will be counted.
     * If it’s time for the polls to close and you haven’t voted yet, *remain in line.* If you leave, you will not be able to cast a ballot in person.
 * Tell people that you’ve voted!
   * Voting is always important, but this year it’s *really* important.
@@ -173,7 +190,7 @@ Beyond the logistics of voting during the Covid-19 pandemic, there’s also the 
   * Expect premature declarations of victory by Trump.
 * Try not to expect an outcome until one candidate concedes.
 
-The lawsuits and analysis have already started. November 3rd will not be the end of them, I’m sorry to say. ([FiveThirtyEight](https://projects.fivethirtyeight.com/how-to-vote-2020/)) There is also a strong likelihood that we’ll see a spike in domestic terrorism. ([Center for Strategic & International Studies](https://www.csis.org/analysis/escalating-terrorism-problem-united-states))
+The lawsuits (and analysis) have already started. ([Brennan Center for Justice](https://www.brennancenter.org/our-work/court-cases/voting-rights-litigation-2020), [FiveThirtyEight](https://projects.fivethirtyeight.com/how-to-vote-2020/)) November 3rd will not be the end of them, I’m sorry to say. There is also a strong likelihood that we’ll see a spike in domestic terrorism. ([Center for Strategic & International Studies](https://www.csis.org/analysis/escalating-terrorism-problem-united-states))
 
 No matter what, the wait is going to be painful, protracted, exhausting. Try to remember that November 3rd is not a finish line but a milestone. <!-- What can I do after? -->
 

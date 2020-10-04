@@ -1,6 +1,6 @@
 # Sources and Resources
 
-*Updated 2020-09-24.* [Changelog](https://github.com/amclark42/so-youre-planning-to-vote-2020/commits/main/sources-and-resources.md).
+*Updated 2020-10-04.* [Changelog](https://github.com/amclark42/so-youre-planning-to-vote-2020/commits/main/sources-and-resources.md).
 
 Here are [Joe Biden’s plans for the work he’ll do in office.](https://joebiden.com/joes-vision/)
 
@@ -19,20 +19,23 @@ Here is the [World Health Organization’s advice for preventing the spread of C
 * [“Voting outside the polling place: Absentee, all-mail and other voting at home options”](https://www.ncsl.org/research/elections-and-campaigns/absentee-and-early-voting.aspx) from the National Conference of State Legislatures (NCSL). Updated 2020-09-10.
 * [“State laws on voting rights/time off to vote”](https://www.workplacefairness.org/voting-rights-time-off-work) from Workplace Fairness. No listed date.
 * [Vote411](https://www.vote411.org/) from the League of Women Voters Education Fund. Guides, and information on candidates (submitted by candidates).
+* [“The voting process explained”](https://www.democracydocket.com/category/the-voting-process-explained/) from Democracy Docket (Marc Elias).
 * [“Don’t selfie your ballot?”](https://www.snopes.com/fact-check/dont-selfie-your-ballot/) from Snopes.com. 2012-09-06.
   * [“Are voting selfies legal? We have the answer in all 50 states”](https://lawandcrime.com/high-profile/are-voting-selfies-legal-we-have-the-answer-in-all-50-states/) from LawandCrime.com. 2016-09-07. (Outdated article, but a good starting point.)
 
 ### Voting by mail because of Covid-19
 
-* [“Absentee and mail voting policies in effect for the 2020 election”](https://www.ncsl.org/research/elections-and-campaigns/absentee-and-mail-voting-policies-in-effect-for-the-2020-election.aspx) from NCSL. Updated 2020-09-14.
-* [“How to vote in the 2020 election”](https://projects.fivethirtyeight.com/how-to-vote-2020/) from FiveThirtyEight. Updated 2020-09-14.
-* [“Plan your vote”](https://www.nbcnews.com/specials/plan-your-vote-state-by-state-guide-voting-by-mail-early-in-person-voting-election/index.html) from NBC News. No listed date. Straightforward breakdown of state-by-state rules for voting, especially by mail.
-* [“How to vote by mail in every state”](https://www.wsj.com/articles/how-to-vote-by-mail-in-every-state-11597840923) from the Wall Street Journal. Updated 2020-08-20.
+* [“Absentee and mail voting policies in effect for the 2020 election”](https://www.ncsl.org/research/elections-and-campaigns/absentee-and-mail-voting-policies-in-effect-for-the-2020-election.aspx) from NCSL. Updated 2020-10-02.
+  * [“Voting outside the polling place: Table 14: How states identify voted absentee ballots”](https://www.ncsl.org/research/elections-and-campaigns/vopp-table-14-how-states-verify-voted-absentee.aspx) from NCSL. 2020-04-17.
+* [“How to vote in the 2020 election”](https://projects.fivethirtyeight.com/how-to-vote-2020/) from FiveThirtyEight. Updated 2020-10-02.
+* [“Plan your vote”](https://www.nbcnews.com/specials/plan-your-vote-state-by-state-guide-voting-by-mail-early-in-person-voting-election/index.html) from NBC News. No listed date.
+  * Straightforward breakdown of state-by-state rules for voting, especially by mail.
+* [“How to vote by mail in every state”](https://www.wsj.com/articles/how-to-vote-by-mail-in-every-state-11597840923) from the Wall Street Journal. Updated 2020-08-18.
 * [“Mail-in voting versus absentee voting: Differences to know before Election Day”](https://www.cnet.com/how-to/mail-in-voting-versus-absentee-voting-differences-to-know-before-election-day/) from CNet. 2020-09-03.
 * [“Election Mail” FAQ and resources](https://about.usps.com/what/government-services/election-mail/) from the U.S. Postal Service.
   * [“Re: Election Mail”](https://about.usps.com/newsroom/national-releases/2020/2020-05-29-marshall-to-election-officials-re-election-mail.pdf) from the U.S. Postal Service. Correspondence by Thomas J. Marshall, general counsel for USPS, to election officials. 2020-05-29.
 * [“New voting laws revive fights over ‘ballot harvesting’”](https://www.snopes.com/ap/2020/08/17/new-voting-laws-revive-fights-over-ballot-harvesting/) from _The Associated Press_. Published on Snopes.com. 2020-08-17.
-
+* [“5 mistakes that can disqualify your November mail ballot and how to avoid them”](https://www.businessinsider.com/mistakes-that-can-disqualify-your-mail-absentee-ballot-2020-9) from _Business Insider_. 2020-09-30.
 
 ### Resisting voter suppression tactics
 
@@ -45,7 +48,7 @@ Here is the [World Health Organization’s advice for preventing the spread of C
   * [Report a Federal Voting Rights Violation](https://civilrights.justice.gov/report/).
   * [“Frequently asked questions”](https://www.justice.gov/crt/frequently-asked-questions-2) from the U.S. Department of Justice Civil Rights Division.
   * Voting Rights hotline: 1-800-253-3931.
-* [“Voting rights litigation 2020”](https://www.brennancenter.org/our-work/court-cases/voting-rights-litigation-2020) from the Brennan Center for Justice. 2020-07-28. Updated 2020-09-22.
+* [“Voting rights litigation 2020”](https://www.brennancenter.org/our-work/court-cases/voting-rights-litigation-2020) from the Brennan Center for Justice. 2020-07-28. Updated 2020-09-30.
 * [“Know your rights: Voter intimidation”](https://www.aclu.org/sites/default/files/field_pdf_file/kyr-voterintimidation-v03.pdf) from the American Civil Liberties Union (ACLU).
 * [VoteRiders](https://www.voteriders.org/). Voter ID assistance, with a state-by-state breakdown.
 * [“Know your voting rights”](https://votolatino.org/article/know-your-voting-rights/) from Voto Latino. 2020.
@@ -95,10 +98,12 @@ Here is the [World Health Organization’s advice for preventing the spread of C
 ## November 3rd and beyond
 
 * [“The election that could break America”](https://www.theatlantic.com/magazine/archive/2020/11/what-if-trump-refuses-concede/616424/) from _The Atlantic_. 2020-11 issue preview. Accessed 2020-09-24.
+* [“The legal fight awaiting us after the election”](https://www.newyorker.com/magazine/2020/09/28/the-legal-fight-awaiting-us-after-the-election) from _The New Yorker_. 2020-09-21.
 * [“November 3: What can go wrong”](https://terikanefield-blog.com/november-3-what-can-go-wrong-expanded-list/) by Teri Kanefield. 2020-08-29.
 * [“The voting will end Nov. 3. The legal battle probably won’t.”](https://www.nytimes.com/2020/08/08/us/politics/voting-nov-3-election.html) from the _New York Times_. 2020-08-08. Updated 2020-08-17.
-* [“This ‘war game’ maps out what happens if the president contests the election”](https://www.wbur.org/onpoint/2020/07/28/election-war-games-trump-scenario) from _On Point_, National Public Radio (NPR). 2020-07-28.
-* [“A bipartisan group secretly gathered to game out a contested Trump-Biden election. It wasn’t pretty”](https://www.bostonglobe.com/2020/07/25/nation/bipartisan-group-secretly-gathered-game-out-contested-trump-biden-election-it-wasnt-pretty) from the _Boston Globe_. 2020-07-26.
+* [“Preventing a disrupted presidential election and transmission”](https://assets.documentcloud.org/documents/7013152/Preventing-a-Disrupted-Presidential-Election-and.pdf) by the Transition Integrity Project. 2020-08-03.
+  * [“This ‘war game’ maps out what happens if the president contests the election”](https://www.wbur.org/onpoint/2020/07/28/election-war-games-trump-scenario) from _On Point_, National Public Radio (NPR). 2020-07-28.
+  * [“A bipartisan group secretly gathered to game out a contested Trump-Biden election. It wasn’t pretty”](https://www.bostonglobe.com/2020/07/25/nation/bipartisan-group-secretly-gathered-game-out-contested-trump-biden-election-it-wasnt-pretty) from the _Boston Globe_. 2020-07-26.
 * [“Trump refuses to commit to accepting election result as Biden enjoys poll lead”](https://www.theguardian.com/us-news/2020/jul/19/trump-joe-biden-coronavirus-polls) from _The Guardian_. 2020-07-19.
 * [“The escalating terrorism problem in the United States”](https://www.csis.org/analysis/escalating-terrorism-problem-united-states) from the Center for Strategic & International Studies. 2020-06-17.
 * [“Parties ready for court battles over virus-era voting rights”](https://apnews.com/71adf90dabe4d6ccab781df75aafd76a) from _The Associated Press_. 2020-04-07.
@@ -118,8 +123,15 @@ Organized by date, newest first.
 
 #### 2020
 
+##### October
+
+* [“After ‘egregious’ violation, judge orders census to count through Oct. 31 for now”](https://www.npr.org/2020/10/02/919224602/after-egregious-violation-judge-orders-census-to-count-through-oct-31-for-now) from NPR. 2020-10-02. Updated 2020-10-03.
+
 ##### September
 
+* [“Revealed: Trump campaign strategy to deter millions of Black Americans from voting in 2016”](https://www.channel4.com/news/revealed-trump-campaign-strategy-to-deter-millions-of-black-americans-from-voting-in-2016) from Channel 4 News (UK). 2020-09-28.
+  * Quotes Jamal Watkins (NAACP): “The thing that’s shocking slash troubling about this is that there’s this category of suppression. That ‘Deterrence’ part. So, we use data – similar to voter file data – but it’s to motivate, persuade and encourage folks to participate. We don’t use the data to say who can we deter and keep at home. That just seems, fundamentally, it’s a shift from the notion of democracy. It’s not ‘may the best candidate win’ at that point it’s ‘may the best well-funded machine suppress voters and keep them at home thereby rigging the election so that someone can win’.”
+* [“Ransomware attacks take on new urgency ahead of vote”](https://www.nytimes.com/2020/09/27/technology/2020-election-security-threats.html) from the _New York Times_. 2020-09-27.
 * [“Trump won’t commit to peaceful transfer of power if he loses the election”](https://www.cnbc.com/2020/09/23/trump-wont-commit-to-peaceful-transfer-of-power-if-he-loses-the-election.html) from CNBC. 2020-09-23.
 * [“Foreign actors and cybercriminals likely to spread disinformation regarding 2020 election results”](https://www.ic3.gov/media/2020/200922.aspx) from the U.S. Federal Bureau of Investigations (FBI). 2020-09-22.
 * [“Pennsylvania’s ‘naked ballot’ ruling will ‘cause electoral chaos,’ Philly commissioner warns”](https://www.phillyvoice.com/naked-ballots-pennsylvania-2020-electiion-mail-in-absentee-trump-biden/) from the _PhillyVoice_. 2020-09-21.
