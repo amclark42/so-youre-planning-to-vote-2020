@@ -1,6 +1,6 @@
 # Sources and Resources
 
-*Updated 2020-10-04.* [Changelog](https://github.com/amclark42/so-youre-planning-to-vote-2020/commits/main/sources-and-resources.md).
+*Updated 2020-10-08.* [Changelog](https://github.com/amclark42/so-youre-planning-to-vote-2020/commits/main/sources-and-resources.md).
 
 Here are [Joe Biden’s plans for the work he’ll do in office.](https://joebiden.com/joes-vision/)
 
@@ -125,7 +125,13 @@ Organized by date, newest first.
 
 ##### October
 
+* [“Early voting can start Oct. 13 as scheduled, Texas Supreme Court rules”](https://www.texastribune.org/2020/10/07/texas-early-voting-october-13/) from _The Texas Tribune_. 2020-10-07.
+* [“Florida online voter registration site broken, just hours before deadline to register”](https://www.newsweek.com/florida-online-voter-registration-site-broken-just-hours-before-deadline-register-1536519) from _Newsweek_. 2020-10-05.
+* [“Supreme Court revives witness requirement for South Carolina absentee ballots”](https://www.nytimes.com/2020/10/05/us/supreme-court-south-carolina-absentee-ballots.html?referringSource=articleShare) from the _New York Times_. 2020-10-05.
 * [“After ‘egregious’ violation, judge orders census to count through Oct. 31 for now”](https://www.npr.org/2020/10/02/919224602/after-egregious-violation-judge-orders-census-to-count-through-oct-31-for-now) from NPR. 2020-10-02. Updated 2020-10-03.
+* [“Voters, voting rights groups sue Gov. Greg Abbott over order to close ballot drop-off locations”](https://www.texastribune.org/2020/10/02/texas-greg-abbott-ballot-drop-lawsuit/) from _The Texas Tribune_. 2020-10-02. Updated 2020-10-03.
+* [“In big states, tiny counties, Trump attacking voting rules”](https://apnews.com/article/virus-outbreak-election-2020-donald-trump-local-elections-lawsuits-4298a514550323d39931f3e5fff2ccae) from AP News. 2020-10-01.
+
 
 ##### September
 
