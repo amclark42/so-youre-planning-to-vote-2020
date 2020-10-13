@@ -1,6 +1,6 @@
 # Sources and Resources
 
-*Updated 2020-10-08.* [Changelog](https://github.com/amclark42/so-youre-planning-to-vote-2020/commits/main/sources-and-resources.md).
+*Updated 2020-10-12* [Changelog](https://github.com/amclark42/so-youre-planning-to-vote-2020/commits/main/sources-and-resources.md).
 
 Here are [Joe Biden’s plans for the work he’ll do in office.](https://joebiden.com/joes-vision/)
 
@@ -125,6 +125,9 @@ Organized by date, newest first.
 
 ##### October
 
+* [“Fresno GOP wrongly told voters to drop ballots at gun stores and other unauthorized sites”](https://www.sacbee.com/news/california/article246396930.html) from _The Sacramento Bee_. 2020-10-12.
+  * [County Clerk/Registrar of Voters Memorandum # 20240](https://elections.cdn.sos.ca.gov/ccrov/pdf/2020/october/20240jl.pdf) issued by the California Secretary of State, Elections Division. 2020-10-11. An overview of the vote-by-mail ballot collection process, with a focus on ballot drop boxes and the regulations around their use.
+* [“Microsoft takes down massive hacking operation that could have affected the election”](https://www.cnn.com/2020/10/12/tech/microsoft-election-ransomware/index.html) from CNN. 2020-10-12.
 * [“Early voting can start Oct. 13 as scheduled, Texas Supreme Court rules”](https://www.texastribune.org/2020/10/07/texas-early-voting-october-13/) from _The Texas Tribune_. 2020-10-07.
 * [“Florida online voter registration site broken, just hours before deadline to register”](https://www.newsweek.com/florida-online-voter-registration-site-broken-just-hours-before-deadline-register-1536519) from _Newsweek_. 2020-10-05.
 * [“Supreme Court revives witness requirement for South Carolina absentee ballots”](https://www.nytimes.com/2020/10/05/us/supreme-court-south-carolina-absentee-ballots.html?referringSource=articleShare) from the _New York Times_. 2020-10-05.
