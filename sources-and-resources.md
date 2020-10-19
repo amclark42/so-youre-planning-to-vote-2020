@@ -1,6 +1,6 @@
 # Sources and Resources
 
-*Updated 2020-10-12* [Changelog](https://github.com/amclark42/so-youre-planning-to-vote-2020/commits/main/sources-and-resources.md).
+*Updated 2020-10-19.* [Changelog](https://github.com/amclark42/so-youre-planning-to-vote-2020/commits/main/sources-and-resources.md).
 
 Here are [Joe Biden’s plans for the work he’ll do in office.](https://joebiden.com/joes-vision/)
 
@@ -13,18 +13,21 @@ Here is the [World Health Organization’s advice for preventing the spread of C
   * [“Absentee Ballot Rules”](https://www.vote.org/absentee-voting-rules/).
   * [“Voting & COVID-19”](https://www.vote.org/covid-19/)
   * [“Election Protection”](https://www.vote.org/election-protection/).
-* [“Voting Information”](https://www.rockthevote.org/how-to-vote/) from Rock the Vote.
+* [“Let people vote”](https://www.aclu.org/voter/) from the American Civil Liberties Union (ACLU).
+* [“Voting information”](https://www.rockthevote.org/how-to-vote/) from Rock the Vote.
 * [U.S. Voting Laws](https://www.usa.gov/voting-laws) from USA.gov.
 * [Election Official Directory and State Voting Requirements](https://www.usvotefoundation.org/vote/eoddomestic.htm) from the U.S. Vote Foundation.
 * [“Voting outside the polling place: Absentee, all-mail and other voting at home options”](https://www.ncsl.org/research/elections-and-campaigns/absentee-and-early-voting.aspx) from the National Conference of State Legislatures (NCSL). Updated 2020-09-10.
 * [“State laws on voting rights/time off to vote”](https://www.workplacefairness.org/voting-rights-time-off-work) from Workplace Fairness. No listed date.
 * [Vote411](https://www.vote411.org/) from the League of Women Voters Education Fund. Guides, and information on candidates (submitted by candidates).
-* [“The voting process explained”](https://www.democracydocket.com/category/the-voting-process-explained/) from Democracy Docket (Marc Elias).
+* [“The voting process explained”](https://www.democracydocket.com/category/the-voting-process-explained/) from Democracy Docket.
+* [“Make a mistake? Know about the ‘cure’ process”](https://www.democracydocket.com/2020/10/cure-process/) from Democracy Docket.
 * [“Don’t selfie your ballot?”](https://www.snopes.com/fact-check/dont-selfie-your-ballot/) from Snopes.com. 2012-09-06.
   * [“Are voting selfies legal? We have the answer in all 50 states”](https://lawandcrime.com/high-profile/are-voting-selfies-legal-we-have-the-answer-in-all-50-states/) from LawandCrime.com. 2016-09-07. (Outdated article, but a good starting point.)
 
-### Voting by mail because of Covid-19
+### Voting during the Covid-19 pandemic
 
+* [“Navigating in-person voting for 2020 election”](https://www.lwv.org/blog/navigating-person-voting-2020-election) from the League of Women Voters (LWV). 2020-10-15.
 * [“Absentee and mail voting policies in effect for the 2020 election”](https://www.ncsl.org/research/elections-and-campaigns/absentee-and-mail-voting-policies-in-effect-for-the-2020-election.aspx) from NCSL. Updated 2020-10-02.
   * [“Voting outside the polling place: Table 14: How states identify voted absentee ballots”](https://www.ncsl.org/research/elections-and-campaigns/vopp-table-14-how-states-verify-voted-absentee.aspx) from NCSL. 2020-04-17.
 * [“How to vote in the 2020 election”](https://projects.fivethirtyeight.com/how-to-vote-2020/) from FiveThirtyEight. Updated 2020-10-02.
@@ -48,8 +51,7 @@ Here is the [World Health Organization’s advice for preventing the spread of C
   * [Report a Federal Voting Rights Violation](https://civilrights.justice.gov/report/).
   * [“Frequently asked questions”](https://www.justice.gov/crt/frequently-asked-questions-2) from the U.S. Department of Justice Civil Rights Division.
   * Voting Rights hotline: 1-800-253-3931.
-* [“Voting rights litigation 2020”](https://www.brennancenter.org/our-work/court-cases/voting-rights-litigation-2020) from the Brennan Center for Justice. 2020-07-28. Updated 2020-09-30.
-* [“Know your rights: Voter intimidation”](https://www.aclu.org/sites/default/files/field_pdf_file/kyr-voterintimidation-v03.pdf) from the American Civil Liberties Union (ACLU).
+* [“Know your rights: Voter intimidation”](https://www.aclu.org/sites/default/files/field_pdf_file/kyr-voterintimidation-v03.pdf) from ACLU.
 * [VoteRiders](https://www.voteriders.org/). Voter ID assistance, with a state-by-state breakdown.
 * [“Know your voting rights”](https://votolatino.org/article/know-your-voting-rights/) from Voto Latino. 2020.
 * [“Everything you always wanted to know about redistricting but were afraid to ask”](https://www.aclu.org/report/everything-you-always-wanted-know-about-redistricting-were-afraid-ask?redirect=voting-rights/everything-you-always-wanted-know-about-redistricting-were-afraid-ask) from ACLU. 2010.
@@ -64,12 +66,27 @@ Here is the [World Health Organization’s advice for preventing the spread of C
 * [“Know your rights: Voting guide for TGNCNB people”](https://www.lambdalegal.org/vote) from Lambda Legal. No listed date.
 * [“#VotingWhileTrans”](https://transformthevote.org/voting) from the National Center for Transgender Equality Action Fund. 2020.
 * [“Vote with pride: Election 2020”](https://www.glaad.org/action) from GLAAD. No listed date.
+* [“Let trans people vote”](https://www.aclu.org/news/civil-liberties/let-trans-people-vote) from ACLU. 2020-10-16.
 
 ### Voting after incarceration
 
 * [“Felony disenfranchisement”](https://www.sentencingproject.org/issues/felony-disenfranchisement/) from The Sentencing Project.
 * [“Felon voting laws”](https://www.headcount.org/wp-content/uploads/2020/05/FelonMap.pdf) from HeadCount. Updated 2020-05-26.
 * [“Felon voting rights”](https://www.ncsl.org/research/elections-and-campaigns/felon-voting-rights.aspx) from NCSL. 2020-09-03.
+
+### Voting with disabilities
+
+* [“Vote. It’s your right: A know-your-rights guide for voters with mental disabilities and advocates”](https://secureservercdn.net/198.71.233.254/d25.2ac.myftpupload.com/wp-content/uploads/2020/10/Bazelon-2020-Voter-Guide-Plain-Language.pdf) from the Bazelon Center for Mental Health Law; the Autistic Self-Advocacy Network; the National Disability Rights Network; Schulte, Roth &amp; Zabel LLP; and Akin Gump Strauss Hauer &amp; Feld LLP. 2020.
+* [“Vote For Access” video series](https://www.blockbyblockcreative.com/vote-for-access) hosted by Imani Barbarin.
+* [“Voter challenge statutes by state”](https://secureservercdn.net/198.71.233.254/d25.2ac.myftpupload.com/wp-content/uploads/2020/10/Voter-Challenge-Statutes-by-State-Update-2020-FINAL.pdf) from the [Bazelon Center for Mental Health Law](http://www.bazelon.org/our-work/voting). Updated 2020-10-16.
+* [National Disability Rights Network (NDRN) member agencies](https://www.ndrn.org/about/ndrn-member-agencies). State-by-state agencies which advocate for those with disabilities, and which can help with voting problems.
+* [“Blocking the ballot box: Ending misuse of the ADA to close polling places”](https://www.ndrn.org/wp-content/uploads/2020/01/NDRN_Blocking_the_Ballot_Box_2020.pdf) from NDRN. 2020-01.
+
+### Litigation for voters’ rights
+
+* [ACLU](https://www.aclu.org/voter/nationwide/). No listed date.
+* [Brennan Center for Justice](https://www.brennancenter.org/our-work/court-cases/voting-rights-litigation-2020). 2020-07-28. Updated 2020-10-14.
+* [Democracy Docket](https://www.democracydocket.com/case_type/active-cases)
 
 
 ## How to work for an equitable election
@@ -125,16 +142,21 @@ Organized by date, newest first.
 
 ##### October
 
+* [“Federal appeals courts emerge as crucial for Trump in voting cases”](https://www.nytimes.com/2020/10/17/us/politics/federal-appeals-courts-trump-voting.html) from _The New York Times_. 2020-10-17. Updated 2020-10-18.
+* [“Florida Republicans launch last-minute effort to shut down ballot drop boxes”](https://slate.com/news-and-politics/2020/10/florida-republicans-close-ballot-drop-box.html) from _Slate_. 2020-10-16.
+* [“LWV of Arizona statement in response to decision in Navajo Nation voting rights case”](https://www.lwv.org/newsroom/press-releases/lwv-arizona-statement-response-decision-navajo-nation-voting-rights-case) from LWV. 2020-10-15.
+* [“Statewide IT glitch halts Virginia voter registration on last day”](https://vpm.org/news/articles/17199/statewide-it-glitch-halts-virginia-voter-registration-on-last-day) from VPN, Virginia NPR station. 2020-10-13.
 * [“Fresno GOP wrongly told voters to drop ballots at gun stores and other unauthorized sites”](https://www.sacbee.com/news/california/article246396930.html) from _The Sacramento Bee_. 2020-10-12.
   * [County Clerk/Registrar of Voters Memorandum # 20240](https://elections.cdn.sos.ca.gov/ccrov/pdf/2020/october/20240jl.pdf) issued by the California Secretary of State, Elections Division. 2020-10-11. An overview of the vote-by-mail ballot collection process, with a focus on ballot drop boxes and the regulations around their use.
+* [U.S. Court of Appeals Fifth Circuit decision in Case No. 20-50867](http://www.ca5.uscourts.gov/opinions/pub/20/20-50867-CV0.pdf), which lets the Texas Secretary of State continue to limit the number of mail-in ballot drop-off locations to one per county. Filed 2020-10-12.
 * [“Microsoft takes down massive hacking operation that could have affected the election”](https://www.cnn.com/2020/10/12/tech/microsoft-election-ransomware/index.html) from CNN. 2020-10-12.
+* [“The battle over a Texas order limiting ballot drop-off locations, explained”](https://www.vox.com/2020/10/10/21506522/texas-drop-off-ballot-locations-abbott-harris-county) from _Vox_. 2020-10-10. Updated 2020-10-13.
 * [“Early voting can start Oct. 13 as scheduled, Texas Supreme Court rules”](https://www.texastribune.org/2020/10/07/texas-early-voting-october-13/) from _The Texas Tribune_. 2020-10-07.
 * [“Florida online voter registration site broken, just hours before deadline to register”](https://www.newsweek.com/florida-online-voter-registration-site-broken-just-hours-before-deadline-register-1536519) from _Newsweek_. 2020-10-05.
 * [“Supreme Court revives witness requirement for South Carolina absentee ballots”](https://www.nytimes.com/2020/10/05/us/supreme-court-south-carolina-absentee-ballots.html?referringSource=articleShare) from the _New York Times_. 2020-10-05.
 * [“After ‘egregious’ violation, judge orders census to count through Oct. 31 for now”](https://www.npr.org/2020/10/02/919224602/after-egregious-violation-judge-orders-census-to-count-through-oct-31-for-now) from NPR. 2020-10-02. Updated 2020-10-03.
 * [“Voters, voting rights groups sue Gov. Greg Abbott over order to close ballot drop-off locations”](https://www.texastribune.org/2020/10/02/texas-greg-abbott-ballot-drop-lawsuit/) from _The Texas Tribune_. 2020-10-02. Updated 2020-10-03.
 * [“In big states, tiny counties, Trump attacking voting rules”](https://apnews.com/article/virus-outbreak-election-2020-donald-trump-local-elections-lawsuits-4298a514550323d39931f3e5fff2ccae) from AP News. 2020-10-01.
-
 
 ##### September
 
@@ -150,6 +172,7 @@ Organized by date, newest first.
 * [“Judge blocks Postal Service changes that slowed mail”](https://www.politico.com/news/2020/09/17/us-judge-blocks-postal-service-changes-that-slowed-mail-417276) from Politico. 2020-09-17.
   * Links to [“USPS Impact”](https://uspsimpact2020.com/), which tracks changes to the USPS and their impact across different states.
 * [“The F.B.I. director warns of Russian interference and white supremacist violence”](https://www.nytimes.com/2020/09/17/us/politics/fbi-russia.html) from the _New York Times_. 2020-09-17.
+* [“Voters with disabilities face barriers in 2020 from COVID-19”](https://www.teenvogue.com/story/voters-with-disabilities-barriers-covid) from _Teen Vogue_. 2020-09-16.
 * [“85 million pieces of mail delayed in a week under DeJoy, Senate report finds”](https://www.forbes.com/sites/alisondurkee/2020/09/16/postal-service-louis-dejoy-senate-report-85-million-pieces-of-mail-delayed-in-a-week/#6f7ed99e2df0) from _Forbes_. 2020-09-16.
 * [“South Carolina GOP mailer manipulates Trump tweet to remove vote-by-mail fearmongering”](https://www.huffpost.com/entry/south-carolina-gop-trump-mail-in-voting_n_5f6100cdc5b65fd7b855c668?eub) from the _Huffington Post_. 2020-09-15.
 * [“When will you know if Biden or Trump wins? It could depend on absentee ballot rules in these states”](https://www.latimes.com/politics/story/2020-09-15/absentee-ballot-rules-battleground-states) from the _Los Angeles Times_. 2020-09-15.
@@ -191,6 +214,11 @@ Organized by date, newest first.
 * [“Mitch McConnell’s opposition to federal election security is hitting home”](https://www.motherjones.com/politics/2019/11/mitch-mcconnell-kentucky-election-security/) from _Mother Jones_. 2019-11-25.
 * [“Whistleblower explains how Cambridge Analytica helped fuel U.S. ‘insurgency’”](https://www.npr.org/transcripts/768216311) from NPR. 2019-10-08.
 * [“Source hacking: Media manipulation in practice”](https://datasociety.net/wp-content/uploads/2019/09/Source-Hacking_Hi-res.pdf) by Joan Donovan and Biran Friedberg. 2019-09.
+
+
+#### 2018
+
+* [“The ADA is being used to disenfranchise minority voters”](https://thinkprogress.org/ada-voter-suppression-cd7031080bfd/) from ThinkProgress. 2018-08-22. Updated 2018-08-24.
 
 
 #### 2016
