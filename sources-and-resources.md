@@ -1,6 +1,6 @@
 # Sources and Resources
 
-*Updated 2020-10-19.* [Changelog](https://github.com/amclark42/so-youre-planning-to-vote-2020/commits/main/sources-and-resources.md).
+*Updated 2020-10-26.* [Changelog](https://github.com/amclark42/so-youre-planning-to-vote-2020/commits/main/sources-and-resources.md).
 
 Here are [Joe Biden’s plans for the work he’ll do in office.](https://joebiden.com/joes-vision/)
 
@@ -111,6 +111,13 @@ Here is the [World Health Organization’s advice for preventing the spread of C
   * [Thread about putting pressure on the USPS Board of Governors](https://twitter.com/NastyOldWomyn/status/1294349964966006788) by Twitter user NastyOldWomyn. 2020-08-14.
 * [“The antidote to despair”](https://terikanefield-blog.com/the-antidote-to-despair/) by Teri Kanefield (as a [Twitter thread](https://twitter.com/Teri_Kanefield/status/1300139s973874573312)). 2020-08-30.
 
+### Reimagining election processes
+
+How can we lower barriers so everyone is able to vote? Some concrete actions to fight for.
+
+* [“A guide to pro-voter reforms”](https://www.tascnow.com/wp-content/uploads/2019/05/A-Guide-to-Pro-Voter-Reforms.pdf) from the National Disability Rights Network. 2019-04.
+* [“Field guides for ensuring voter intent”](https://civicdesign.org/fieldguides/) from the Center for Civic Design.
+
 
 ## November 3rd and beyond
 
@@ -131,7 +138,9 @@ Here is the [World Health Organization’s advice for preventing the spread of C
 ### Broadly
 
 * [WTF Just Happened Today](https://whatthefuckjusthappenedtoday.com/) compiled by Matt Kiser. Daily news summaries on the Trump presidency.
+* [“Lest we forget the horrors: A catalog of Trump’s worst cruelties, collusions, corruptions, and crimes”](https://www.mcsweeneys.net/articles/the-complete-listing-so-far-atrocities-1-949) from McSweeney’s. 2020-10-26.
 * [“Elections” tag](https://www.politifact.com/elections/) from PolitiFact.
+* [Snopes.com](https://www.snopes.com/). Fact-checking and news.
 
 
 ### Reports and news items
@@ -142,7 +151,16 @@ Organized by date, newest first.
 
 ##### October
 
+* [“How police, National Guard and military are preparing for election day tensions”](https://www.npr.org/2020/10/26/926703808/how-police-national-guard-and-the-military-are-preparing-for-election-day-tensio) from NPR. 2020-10-26.
+* [“First-class mail service is awful, admitted Postal Service late Friday”](https://www.lexingtoninstitute.org/first-class-mail-service-is-awful-admitted-postal-service-late-friday/) from the Lexington Institute. 2020-10-26.
+  * [“The U.S. Postal Service issues new service performance report for the week of October 10th”](https://about.usps.com/newsroom/national-releases/2020/1023-usps-issues-new-service-performance-report-for-the-week-of-oct-10.htm), a press release from USPS. 2020-10-23.
+* [“Georgia’s legacy of voter suppression is driving historic Black turnout”](https://www.politico.com/news/2020/10/26/georgia-voter-suppression-black-turnout-432405) from Politico. 2020-10-26.
+* [“Voters in Alabama’s largest county could have their ballots thrown out after a court ruled instructions they were sent are no longer valid”](https://www.buzzfeednews.com/article/zoetillman/alabama-ballots-witness-wrong-information-jefferson-county) from Buzzfeed News. 2020-10-24. Updated 2020-10-25.
+* [“The US eliminated nearly 21,000 election day polling locations for 2020”](https://www.vice.com/en/article/pkdenn/the-us-eliminated-nearly-21000-election-day-polling-locations-for-2020) from VICE News. 2020-10-22.
+* [“Supreme Court blocks curbside voting in Alabama, an option during pandemic”](https://www.npr.org/2020/10/21/926472968/supreme-court-blocks-curbside-voting-in-alabama-an-option-during-pandemic) from NPR. 2020-10-21.
+* [“Iran and Russia seek to influence election in final days, U.S. officials warn”](https://www.nytimes.com/2020/10/21/us/politics/iran-russia-election-interference.html) from _The New York Times_. 2020-10-21.
 * [“Federal appeals courts emerge as crucial for Trump in voting cases”](https://www.nytimes.com/2020/10/17/us/politics/federal-appeals-courts-trump-voting.html) from _The New York Times_. 2020-10-17. Updated 2020-10-18.
+* [“Why do nonwhite Georgia voters have to wait in line for hours? Their numbers have soared, and their polling places have dwindled”](https://www.propublica.org/article/why-do-nonwhite-georgia-voters-have-to-wait-in-line-for-hours-their-numbers-have-soared-and-their-polling-places-have-dwindled) from Politico. 2020-10-17.
 * [“Florida Republicans launch last-minute effort to shut down ballot drop boxes”](https://slate.com/news-and-politics/2020/10/florida-republicans-close-ballot-drop-box.html) from _Slate_. 2020-10-16.
 * [“LWV of Arizona statement in response to decision in Navajo Nation voting rights case”](https://www.lwv.org/newsroom/press-releases/lwv-arizona-statement-response-decision-navajo-nation-voting-rights-case) from LWV. 2020-10-15.
 * [“Statewide IT glitch halts Virginia voter registration on last day”](https://vpm.org/news/articles/17199/statewide-it-glitch-halts-virginia-voter-registration-on-last-day) from VPN, Virginia NPR station. 2020-10-13.
