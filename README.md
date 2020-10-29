@@ -1,6 +1,6 @@
 # So You’re Planning to Vote in Fascist America
 
-*Updated 2020-10-04.* [Changelog](https://github.com/amclark42/so-youre-planning-to-vote-2020/commits/main).
+*Updated 2020-10-29.* [Changelog](https://github.com/amclark42/so-youre-planning-to-vote-2020/commits/main).
 
 2020 is a difficult year to have a U.S. presidential election. Between the Covid-19 pandemic and voter disenfranchisement, we’re facing an election season full of fear and confusion. I compiled this document and a [companion list of resources](./sources-and-resources.md) to try to cut through that confusion and give others a place to start planning their vote.
 
@@ -48,13 +48,13 @@ Check your voter registration status online. [Vote.org](https://www.vote.org/am-
 
 ## Decide how you will submit your ballot
 
-Consider voting by mail or voting absentee, in order to keep yourself and others safe during the Covid-19 pandemic. If you can’t vote remotely, or prefer not to do so, *try to vote early*. By voting before Election Day, you’ll not only ensure that your vote is counted, you’ll keep yourself and others safer.
+Voting by mail or voting absentee is a good choice for keeping yourself and others safe during the Covid-19 pandemic. With so much litigation around when ballots can be processed, a sure way of making sure your vote is counted is to show up at the polls. If you can’t vote remotely or prefer not to do so, *try to vote early*. By voting before Election Day, you’ll not only ensure that your vote is counted, you’ll keep yourself and others safer.
 
 ### Voting by mail
 
 Some states, such as Colorado, vote entirely by mail every year—ballots are sent to all registered voters before an election. Otherwise, voting absentee lets you vote by mail, usually because you physically can’t go to the polls. ([National Conference of State Legislatures (NCSL)](https://www.ncsl.org/research/elections-and-campaigns/absentee-and-early-voting.aspx), [NASS](https://www.nass.org/can-i-vote/absentee-early-voting)) This year, many states have fewer restrictions on absentee voting because of the Covid-19 pandemic. Depending on your state, you may need to cite fear of Covid-19 as a justification for voting absentee. ([Vote.org](https://www.vote.org/absentee-voting-rules/), [FiveThirtyEight](https://projects.fivethirtyeight.com/how-to-vote-2020/), [NBC News](https://www.nbcnews.com/specials/plan-your-vote-state-by-state-guide-voting-by-mail-early-in-person-voting-election/index.html), [NCSL](https://www.ncsl.org/research/elections-and-campaigns/absentee-and-mail-voting-policies-in-effect-for-the-2020-election.aspx))
 
-* If you need to, apply to vote by mail ASAP. ([FiveThirtyEight](https://projects.fivethirtyeight.com/how-to-vote-2020/), [Wall Street Journal](https://www.wsj.com/articles/how-to-vote-by-mail-in-every-state-11597840923), [NBC News](https://www.nbcnews.com/specials/plan-your-vote-state-by-state-guide-voting-by-mail-early-in-person-voting-election/index.html))
+* If you need to are able, apply to vote by mail ASAP. ([FiveThirtyEight](https://projects.fivethirtyeight.com/how-to-vote-2020/), [Wall Street Journal](https://www.wsj.com/articles/how-to-vote-by-mail-in-every-state-11597840923), [NBC News](https://www.nbcnews.com/specials/plan-your-vote-state-by-state-guide-voting-by-mail-early-in-person-voting-election/index.html))
   * If you’re able and if your local government allows it, consider submitting your application without mailing it, by:
     * applying online,
     * emailing or faxing the application, or
@@ -76,10 +76,12 @@ Some states, such as Colorado, vote entirely by mail every year—ballots are se
     * sending a bipartisan team to pick up ballots,
     * etc.
   * Ballots are collected from these boxes regularly.
-* If you plan to mail your ballot, try to get it to the post office ASAP—ideally, within a few days after you receive it.
-  * The USPS recommends mailing ballots at least a week before their deadline. ([USPS](https://about.usps.com/what/government-services/election-mail/))
-  * To be on the safe side, expect two or three weeks before arrival.
+* ~~If you plan to mail your ballot, try to get it to the post office ASAP—ideally, within a few days after you receive it.~~
+  * ~~The USPS recommends mailing ballots at least a week before their deadline. ([USPS](https://about.usps.com/what/government-services/election-mail/))~~
+  * ~~To be on the safe side, expect two or three weeks before arrival.~~
+  * As of October 29, reports from some states and from the USPS indicate that mail delivery times have dropped again. **Do not mail your ballot.**
 * You may be able to hand-deliver your ballot to your local election authority, or directly to your polling place during an early voting period.
+  * If you hand a ballot to a poll worker on Election Day, your ballot may go through a waiting period as the state verifies that you haven't also voted in person. If you want your vote to count immediately, consider handing your blank ballot to the poll worker, and asking for a fresh one to fill out in person.
 * You may have the option to track your ballot online, so you’ll be able to see when it arrives. ([NBC News](https://www.nbcnews.com/specials/plan-your-vote-state-by-state-guide-voting-by-mail-early-in-person-voting-election/index.html))
 
 Some states will only accept mail-in ballots up until the polls close on Election Day. Others will accept mail-in ballots that have been postmarked by Election Day, as long as they are received by a set date. ([FiveThirtyEight](https://projects.fivethirtyeight.com/how-to-vote-2020/), [Wall Street Journal](https://www.wsj.com/articles/how-to-vote-by-mail-in-every-state-11597840923), [NBC News](https://www.nbcnews.com/specials/plan-your-vote-state-by-state-guide-voting-by-mail-early-in-person-voting-election/index.html))
@@ -115,13 +117,16 @@ Some additional resources...
   * [National Low Income Housing Coalition](https://www.ourhomes-ourvotes.org/voterinformationbystate),
   * [National Homeless Coalition](https://nationalhomeless.org/wp-content/uploads/2018/08/2018-Manual_for-web.pdf).
 * ...if you have been imprisoned:
-  * [The Sentencing Project](https://www.sentencingproject.org/issues/felony-disenfranchisement/)
+  * [The Sentencing Project](https://www.sentencingproject.org/issues/felony-disenfranchisement/),
   * [HeadCount](https://www.headcount.org/wp-content/uploads/2020/05/FelonMap.pdf),
   * [NCSL](https://www.ncsl.org/research/elections-and-campaigns/felon-voting-rights.aspx).
 * ...if your ID lists a name and/or gender marker that doesn’t match what you look like:
   * [National Center for Transgender Equality](https://transformthevote.org/voting),
   * [Lambda Legal](https://www.lambdalegal.org/vote),
   * [GLAAD](https://www.glaad.org/action).
+* ...if you are disabled:
+  * [A know-your-rights guide](https://secureservercdn.net/198.71.233.254/d25.2ac.myftpupload.com/wp-content/uploads/2020/10/Bazelon-2020-Voter-Guide-Plain-Language.pdf) from the Bazelon Center for Mental Health Law. the Autistic Self-Advocacy Network, and the National Disability Rights Network;
+  * [National Disability Rights Network (NDRN) member agencies](https://www.ndrn.org/about/ndrn-member-agencies). State-by-state agencies which advocate for those with disabilities, and which can help with voting problems.
 
 If you need to take time off of work in order to vote, check the guidelines for your area. About 30 states have laws expressing your right to do so, usually with advance notice to your employer. Request time off from your employer ASAP. ([Workplace Fairness](https://www.workplacefairness.org/voting-rights-time-off-work))
 
@@ -192,7 +197,9 @@ Beyond the logistics of voting during the Covid-19 pandemic, there’s also the 
 
 The lawsuits (and analysis) have already started. ([Brennan Center for Justice](https://www.brennancenter.org/our-work/court-cases/voting-rights-litigation-2020), [FiveThirtyEight](https://projects.fivethirtyeight.com/how-to-vote-2020/)) November 3rd will not be the end of them, I’m sorry to say. There is also a strong likelihood that we’ll see a spike in domestic terrorism. ([Center for Strategic & International Studies](https://www.csis.org/analysis/escalating-terrorism-problem-united-states))
 
-No matter what, the wait is going to be painful, protracted, exhausting. Try to remember that November 3rd is not a finish line but a milestone. <!-- What can I do after? -->
+No matter what, the wait is going to be painful, protracted, exhausting. Try to remember that November 3rd is not a finish line but a milestone.
+
+Take time to process everything that's happened. Take time to rest yourself. Prepare to speak out.
 
 
 ## What can we do right now?
@@ -217,15 +224,17 @@ I feel hopeless a lot these days. Everything feels like too much. For me, despai
   * We might bring water and food to people waiting in line.
 * We can consider applying to be a poll worker, if our health and circumstances allow it. ([U.S. Election Assistance Commission](https://www.eac.gov/help-america-vote), [Work Elections](https://www.workelections.com/), [Power the Polls](https://www.powerthepolls.org/))
   * Poll workers are often retirees. Many will choose not to risk their lives this year, and they shouldn’t have to make that choice.
+  * Poll workers will and are calling in sick due to health concerns and Covid-19 infection. States need extra volunteers to fill in the gaps.
   * If there aren’t enough poll workers, the number of polling places might go down.
   * With fewer polling places, there will be longer lines and everyone will have a higher risk of infection.
+  * That said, **many states have a limited time left to train new workers.** Consider checking with your local election authority, but otherwise try to help in other ways.
 * In some states, we may be able to strengthen the voting process in other ways. ([Twitter thread by @JamesMWilliam18](https://twitter.com/JamesMWilliam18/status/1134487920297910274))
   * We might volunteer to work as a translator or interpreter.
   * We might volunteer to greet and direct voters.
   * We might volunteer to register voters.
   * We might volunteer to monitor the polls.
   * We might volunteer to count votes.
-* We can fill out the [2020 U.S. Census form](https://2020census.gov/) ASAP. (Among other things, information from the Census is used to determine how many seats our states get in the U.S. House of Representatives.)
+* We can fill out the [2020 U.S. Census form](https://2020census.gov/) ASAP. (Among other things, information from the Census is used to determine how many electors each state can send to vote; and how many seats our states get in the U.S. House of Representatives.)
 
 We can look for all the people quietly helping in the background. We can look to all the people loudly demanding change. We can look at all the people standing beside us. We can *be* these people for others.
 
