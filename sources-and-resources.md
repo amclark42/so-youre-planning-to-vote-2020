@@ -1,6 +1,6 @@
 # Sources and Resources
 
-*Updated 2020-10-26.* [Changelog](https://github.com/amclark42/so-youre-planning-to-vote-2020/commits/main/sources-and-resources.md).
+*Updated 2020-10-31.* [Changelog](https://github.com/amclark42/so-youre-planning-to-vote-2020/commits/main/sources-and-resources.md).
 
 Here are [Joe Biden’s plans for the work he’ll do in office.](https://joebiden.com/joes-vision/)
 
@@ -87,6 +87,7 @@ Here is the [World Health Organization’s advice for preventing the spread of C
 * [ACLU](https://www.aclu.org/voter/nationwide/). No listed date.
 * [Brennan Center for Justice](https://www.brennancenter.org/our-work/court-cases/voting-rights-litigation-2020). 2020-07-28. Updated 2020-10-14.
 * [Democracy Docket](https://www.democracydocket.com/case_type/active-cases)
+* [“Here’s a rundown of mail-in ballot cases that have been settled in US courts”](https://www.bostonglobe.com/2020/10/29/metro/heres-rundown-mail-in-ballot-cases-that-have-been-settled-us-courts) from the _Boston Globe_. 2020-10-29.
 
 
 ## How to work for an equitable election
@@ -121,6 +122,8 @@ How can we lower barriers so everyone is able to vote? Some concrete actions to 
 
 ## November 3rd and beyond
 
+* [“When to expect election results in every state”](https://projects.fivethirtyeight.com/election-results-timing/) from FiveThirtyEight. 2020-10-30.
+* [“After polls close, the real presidential election starts. Here’s a guide to deadlines from Election Day to inauguration”](https://www.cnn.com/2020/10/18/politics/electoral-college-timeline-2020-election/index.html) from CNN. 2020-10-18. Updated 2020-10-19.
 * [“The election that could break America”](https://www.theatlantic.com/magazine/archive/2020/11/what-if-trump-refuses-concede/616424/) from _The Atlantic_. 2020-11 issue preview. Accessed 2020-09-24.
 * [“The legal fight awaiting us after the election”](https://www.newyorker.com/magazine/2020/09/28/the-legal-fight-awaiting-us-after-the-election) from _The New Yorker_. 2020-09-21.
 * [“November 3: What can go wrong”](https://terikanefield-blog.com/november-3-what-can-go-wrong-expanded-list/) by Teri Kanefield. 2020-08-29.
@@ -141,6 +144,7 @@ How can we lower barriers so everyone is able to vote? Some concrete actions to 
 * [“Lest we forget the horrors: A catalog of Trump’s worst cruelties, collusions, corruptions, and crimes”](https://www.mcsweeneys.net/articles/the-complete-listing-so-far-atrocities-1-949) from McSweeney’s. 2020-10-26.
 * [“Elections” tag](https://www.politifact.com/elections/) from PolitiFact.
 * [Snopes.com](https://www.snopes.com/). Fact-checking and news.
+* [Votebeat](https://votebeat.org/). A nonprofit, nonpartisan news collective reporting on issues of election integrity.
 
 
 ### Reports and news items
@@ -151,18 +155,30 @@ Organized by date, newest first.
 
 ##### October
 
+* [“Biden campaign cancels Austin rally; Trump supporters reportedly harass bus on I-35”](https://cbsaustin.com/news/local/biden-campaign-cancels-austin-rally-trump-supporters-reportedly-harass-bus-on-i-35) from CBS Austin. 2020-10-30.
+* [“Security info request from Trump campaign perturbs Cumberland County officials ahead of election”](https://cumberlink.com/news/local/govt-and-politics/elections/security-info-request-from-trump-campaign-perturbs-cumberland-county-officials-ahead-of-election/article_b4a9dd3a-fa15-5236-aed9-485161e84175.html) from _The Sentinel_. 2020-10-30.
+* [“Pandemic slows legal voting from California jails”](https://calmatters.org/politics/votebeat/2020/10/pandemic-slows-voting-california-jails/) from CalMatters. 2020-10-30.
+* [“How the pandemic has affected voters with disabilities — roughly one-sixth of the US electorate”](https://www.usatoday.com/story/news/politics/elections/2020/10/29/how-pandemic-has-affected-voters-disabilities-2020-election/6059784002/) from _USA Today_. 2020-10-29.
+* [“Facing gap in Pennsylvania, Trump camp tries to make voting harder”](https://www.nytimes.com/2020/10/29/us/elections/trump-pennsylvania-voter-suppression.html) from the _New York Times_. 2020-10-29.
+* [“Worried your mail-in ballot still hasn’t arrived? Here’s how to be sure your vote counts”](https://www.texastribune.org/2020/10/29/texas-mail-in-ballot-absentee) from _The Texas Tribune_. 2020-10-29.
+* [“Potentially thousands of requested mail ballots lost in Butler County, official says”](https://www.post-gazette.com/news/politics-nation/2020/10/29/thousands-requested-mail-ballots-lost-butler-county-pennsylvania-election-2020/stories/202010290124) from the _Pittsburgh Post-Gazette_. 2020-10-29.
+* [“Postal Service ordered to increase late trips for election mail”](https://www.seattletimes.com/nation-world/nation-politics/postal-service-ordered-to-increase-late-trips-for-election-mail) from _The Seattle Times_. 2020-10-28.
 * [“How police, National Guard and military are preparing for election day tensions”](https://www.npr.org/2020/10/26/926703808/how-police-national-guard-and-the-military-are-preparing-for-election-day-tensio) from NPR. 2020-10-26.
 * [“First-class mail service is awful, admitted Postal Service late Friday”](https://www.lexingtoninstitute.org/first-class-mail-service-is-awful-admitted-postal-service-late-friday/) from the Lexington Institute. 2020-10-26.
   * [“The U.S. Postal Service issues new service performance report for the week of October 10th”](https://about.usps.com/newsroom/national-releases/2020/1023-usps-issues-new-service-performance-report-for-the-week-of-oct-10.htm), a press release from USPS. 2020-10-23.
 * [“Georgia’s legacy of voter suppression is driving historic Black turnout”](https://www.politico.com/news/2020/10/26/georgia-voter-suppression-black-turnout-432405) from Politico. 2020-10-26.
 * [“Voters in Alabama’s largest county could have their ballots thrown out after a court ruled instructions they were sent are no longer valid”](https://www.buzzfeednews.com/article/zoetillman/alabama-ballots-witness-wrong-information-jefferson-county) from Buzzfeed News. 2020-10-24. Updated 2020-10-25.
+* [“Trump campaign sues in Nevada to stop Vegas-area vote count”](https://apnews.com/article/barbara-cegavske-lawsuits-carson-city-elections-las-vegas-8684039e3b82e379591cc745834c952e) from _The Associated Press_. 2020-10-23.
 * [“The US eliminated nearly 21,000 election day polling locations for 2020”](https://www.vice.com/en/article/pkdenn/the-us-eliminated-nearly-21000-election-day-polling-locations-for-2020) from VICE News. 2020-10-22.
 * [“Supreme Court blocks curbside voting in Alabama, an option during pandemic”](https://www.npr.org/2020/10/21/926472968/supreme-court-blocks-curbside-voting-in-alabama-an-option-during-pandemic) from NPR. 2020-10-21.
 * [“Iran and Russia seek to influence election in final days, U.S. officials warn”](https://www.nytimes.com/2020/10/21/us/politics/iran-russia-election-interference.html) from _The New York Times_. 2020-10-21.
+* [“Postal data shows hundreds of complaints about election mail problems”](https://www.apmreports.org/story/2020/10/19/postal-data-shows-hundreds-of-complaints-about-election-mail-problems) from APM Reports. 2020-10-19.
 * [“Federal appeals courts emerge as crucial for Trump in voting cases”](https://www.nytimes.com/2020/10/17/us/politics/federal-appeals-courts-trump-voting.html) from _The New York Times_. 2020-10-17. Updated 2020-10-18.
 * [“Why do nonwhite Georgia voters have to wait in line for hours? Their numbers have soared, and their polling places have dwindled”](https://www.propublica.org/article/why-do-nonwhite-georgia-voters-have-to-wait-in-line-for-hours-their-numbers-have-soared-and-their-polling-places-have-dwindled) from Politico. 2020-10-17.
 * [“Florida Republicans launch last-minute effort to shut down ballot drop boxes”](https://slate.com/news-and-politics/2020/10/florida-republicans-close-ballot-drop-box.html) from _Slate_. 2020-10-16.
 * [“LWV of Arizona statement in response to decision in Navajo Nation voting rights case”](https://www.lwv.org/newsroom/press-releases/lwv-arizona-statement-response-decision-navajo-nation-voting-rights-case) from LWV. 2020-10-15.
+* [“How to ‘weaponize’ misleading narratives about voting: Lessons from Trump-linked PILF playbook”] from Snopes. 2020-10-15. Updated 2020-10-17.
+  * The article’s title references an [email by J. Christian Adamss](https://www.snopes.com/uploads/2020/10/194-11-pg-48-weaponize-a-narrative.pdf), who wrote: “Great lesson [on] how to generate, create, organize and weaponize narrative.”
 * [“Statewide IT glitch halts Virginia voter registration on last day”](https://vpm.org/news/articles/17199/statewide-it-glitch-halts-virginia-voter-registration-on-last-day) from VPN, Virginia NPR station. 2020-10-13.
 * [“Fresno GOP wrongly told voters to drop ballots at gun stores and other unauthorized sites”](https://www.sacbee.com/news/california/article246396930.html) from _The Sacramento Bee_. 2020-10-12.
   * [County Clerk/Registrar of Voters Memorandum # 20240](https://elections.cdn.sos.ca.gov/ccrov/pdf/2020/october/20240jl.pdf) issued by the California Secretary of State, Elections Division. 2020-10-11. An overview of the vote-by-mail ballot collection process, with a focus on ballot drop boxes and the regulations around their use.
@@ -174,7 +190,7 @@ Organized by date, newest first.
 * [“Supreme Court revives witness requirement for South Carolina absentee ballots”](https://www.nytimes.com/2020/10/05/us/supreme-court-south-carolina-absentee-ballots.html?referringSource=articleShare) from the _New York Times_. 2020-10-05.
 * [“After ‘egregious’ violation, judge orders census to count through Oct. 31 for now”](https://www.npr.org/2020/10/02/919224602/after-egregious-violation-judge-orders-census-to-count-through-oct-31-for-now) from NPR. 2020-10-02. Updated 2020-10-03.
 * [“Voters, voting rights groups sue Gov. Greg Abbott over order to close ballot drop-off locations”](https://www.texastribune.org/2020/10/02/texas-greg-abbott-ballot-drop-lawsuit/) from _The Texas Tribune_. 2020-10-02. Updated 2020-10-03.
-* [“In big states, tiny counties, Trump attacking voting rules”](https://apnews.com/article/virus-outbreak-election-2020-donald-trump-local-elections-lawsuits-4298a514550323d39931f3e5fff2ccae) from AP News. 2020-10-01.
+* [“In big states, tiny counties, Trump attacking voting rules”](https://apnews.com/article/virus-outbreak-election-2020-donald-trump-local-elections-lawsuits-4298a514550323d39931f3e5fff2ccae) from _The Associated Press_. 2020-10-01.
 
 ##### September
 
@@ -189,10 +205,12 @@ Organized by date, newest first.
 * [“McConnell vows vote on Ginsburg replacement as her death upends the 2020 race”](https://www.nytimes.com/2020/09/18/us/politics/mitch-mcconnell-supreme-court-ruth-bader-ginsburg.html) from the _New York Times_. 2020-09-18. Updated 2020-09-20.
 * [“Judge blocks Postal Service changes that slowed mail”](https://www.politico.com/news/2020/09/17/us-judge-blocks-postal-service-changes-that-slowed-mail-417276) from Politico. 2020-09-17.
   * Links to [“USPS Impact”](https://uspsimpact2020.com/), which tracks changes to the USPS and their impact across different states.
+* [“Trump appointees torpedo report on threats to minority voting right during the pandemic”](https://archive.vn/bwqXB) from _USA Today_, via archive.today. 2020-09-17. Page captured 2020-10-01.
 * [“The F.B.I. director warns of Russian interference and white supremacist violence”](https://www.nytimes.com/2020/09/17/us/politics/fbi-russia.html) from the _New York Times_. 2020-09-17.
 * [“Voters with disabilities face barriers in 2020 from COVID-19”](https://www.teenvogue.com/story/voters-with-disabilities-barriers-covid) from _Teen Vogue_. 2020-09-16.
 * [“85 million pieces of mail delayed in a week under DeJoy, Senate report finds”](https://www.forbes.com/sites/alisondurkee/2020/09/16/postal-service-louis-dejoy-senate-report-85-million-pieces-of-mail-delayed-in-a-week/#6f7ed99e2df0) from _Forbes_. 2020-09-16.
 * [“South Carolina GOP mailer manipulates Trump tweet to remove vote-by-mail fearmongering”](https://www.huffpost.com/entry/south-carolina-gop-trump-mail-in-voting_n_5f6100cdc5b65fd7b855c668?eub) from the _Huffington Post_. 2020-09-15.
+* [“No Democrats allowed: A conservative lawyer holds secret voter fraud meetings with state election officials”](https://www.propublica.org/article/no-democrats-allowed-a-conservative-lawyer-holds-secret-voter-fraud-meetings-with-state-election-officials) from ProPublica. 2020-09-15.
 * [“When will you know if Biden or Trump wins? It could depend on absentee ballot rules in these states”](https://www.latimes.com/politics/story/2020-09-15/absentee-ballot-rules-battleground-states) from the _Los Angeles Times_. 2020-09-15.
 * [“‘I have blood on my hands’: A whistleblower says Facebook ignored global political manipulation”](https://www.buzzfeednews.com/article/craigsilverman/facebook-ignore-political-manipulation-whistleblower-memo) from BuzzFeed News. 2020-09-14.
 * [“The media’s role in calling an election”](https://www.wbur.org/onpoint/2020/09/14/media-election-results) from _On Point_, NPR. 2020-09-14.
@@ -217,13 +235,22 @@ Organized by date, newest first.
 * [“U.S. Postal Service watchdog to probe service woes as worries rise about mail ballots”](https://www.reuters.com/article/us-usa-election-states-idUSKCN25A2M6) from Reuters. 2020-08-14.
 * [“Election officials warn it could take weeks to determine results in November”](https://www.cnbc.com/2020/08/14/election-2020-state-officials-prepare-for-delayed-results-of-up-to-a-few-weeks.html) from CNBC. 2020-08-14.
 
+##### July
+
+* [“How Wisconsin’s 23,000 rejected absentee ballots could spell trouble for the November election”](https://www.wpr.org/how-wisconsins-23-000-rejected-absentee-ballots-could-spell-trouble-november-election) from Wisconsin Public Radio, NPR. 2020-07-23.
+
 ##### May
 
 * [“Freed by court ruling, Republicans step up effort to patrol voting”](https://www.nytimes.com/2020/05/18/us/Voting-republicans-trump.html) from the _New York Times_. 2020-05-18.
+* [“A conservative legal group significantly miscalculated data in a report on mail-in voting”](https://www.propublica.org/article/a-conservative-legal-group-significantly-miscalculated-data-in-a-report-on-mail-in-voting) from ProPublica. 2020-05-02.
 
 ##### April
 
 * [“Conservative operatives float plan to place retired military, police officers as GOP poll watchers on election day”](https://theintercept.com/2020/04/11/republican-poll-watchers-vote-by-mail-voter-fraud/?ref=hvper.com) from _The Intercept_. 2020-04-11.
+
+##### February
+
+* [“How the Iowa caucuses became an epic fiasco for Democrats”](https://www.nytimes.com/2020/02/09/us/politics/iowa-democratic-caucuses.html) from the _New York Times_. 2020-02-09. Updated 2020-02-11.
 
 
 #### 2019
